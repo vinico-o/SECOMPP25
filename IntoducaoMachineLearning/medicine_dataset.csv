@@ -1,0 +1,1047 @@
+isPokemon,Name,Category,Dosage Form,Strength,Manufacturer,Indication,Classification
+0,Acetocillin,Antidiabetic,Cream,938 mg,Roche Holding AG,Virus,Over-the-Counter
+0,Ibuprocillin,Antiviral,Injection,337 mg,CSL Limited,Infection,Over-the-Counter
+0,Dextrophen,Antibiotic,Ointment,333 mg,Johnson & Johnson,Wound,Prescription
+0,Clarinazole,Antifungal,Syrup,362 mg,AbbVie Inc.,Pain,Prescription
+0,Amoxicillin,Antifungal,Tablet,802 mg,Teva Pharmaceutical Industries Ltd.,Wound,Over-the-Counter
+0,Ibupromycin,Antibiotic,Injection,140 mg,Takeda Pharmaceutical Company Limited,Infection,Prescription
+0,Metovir,Antipyretic,Ointment,641 mg,Takeda Pharmaceutical Company Limited,Infection,Over-the-Counter
+0,Ibuprovir,Antidepressant,Syrup,758 mg,Eli Lilly and Company,Fungus,Over-the-Counter
+0,Cefcillin,Antipyretic,Tablet,954 mg,Takeda Pharmaceutical Company Limited,Fungus,Over-the-Counter
+0,Acetomycin,Analgesic,Inhaler,838 mg,Novo Nordisk A/S,Wound,Prescription
+0,Ibuprocillin,Antifungal,Ointment,422 mg,AbbVie Inc.,Wound,Prescription
+0,Acetonazole,Antipyretic,Ointment,575 mg,Bayer AG,Wound,Prescription
+0,Dolocillin,Antiviral,Ointment,451 mg,Novo Nordisk A/S,Diabetes,Prescription
+0,Cefmet,Antifungal,Tablet,440 mg,AstraZeneca plc,Depression,Prescription
+0,Dolophen,Antibiotic,Capsule,469 mg,Johnson & Johnson,Depression,Prescription
+0,Ibupronazole,Analgesic,Injection,720 mg,Novartis AG,Fungus,Prescription
+0,Amoxiprofen,Antiviral,Ointment,861 mg,Novo Nordisk A/S,Diabetes,Prescription
+0,Acetomycin,Antiviral,Drops,978 mg,Roche Holding AG,Virus,Over-the-Counter
+0,Amoxistatin,Antiviral,Inhaler,46 mg,Sanofi S.A.,Fever,Over-the-Counter
+0,Dextrocillin,Antidiabetic,Inhaler,392 mg,Sanofi S.A.,Pain,Over-the-Counter
+0,Metovir,Antifungal,Injection,124 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Cefmet,Analgesic,Cream,649 mg,"Merck & Co., Inc.",Fungus,Over-the-Counter
+0,Clariphen,Antidiabetic,Syrup,300 mg,GlaxoSmithKline plc,Fungus,Over-the-Counter
+0,Ibuprocillin,Antibiotic,Inhaler,86 mg,Bristol-Myers Squibb Company,Diabetes,Prescription
+0,Dolomet,Antifungal,Drops,335 mg,Amgen Inc.,Diabetes,Prescription
+0,Acetoprofen,Antibiotic,Inhaler,909 mg,CSL Limited,Fever,Prescription
+0,Amoximet,Analgesic,Ointment,795 mg,"Gilead Sciences, Inc.",Pain,Prescription
+0,Cefmet,Antidepressant,Injection,512 mg,Boehringer Ingelheim GmbH,Fever,Over-the-Counter
+0,Doloprofen,Antibiotic,Inhaler,981 mg,Eli Lilly and Company,Fungus,Over-the-Counter
+0,Clariprofen,Antifungal,Tablet,123 mg,Pfizer Inc.,Infection,Prescription
+0,Metocillin,Analgesic,Tablet,892 mg,Eli Lilly and Company,Pain,Over-the-Counter
+0,Ibupromycin,Analgesic,Capsule,97 mg,Roche Holding AG,Diabetes,Over-the-Counter
+0,Cefstatin,Antipyretic,Ointment,19 mg,Roche Holding AG,Fever,Prescription
+0,Metomycin,Antifungal,Capsule,718 mg,Pfizer Inc.,Wound,Over-the-Counter
+0,Acetomycin,Antifungal,Syrup,605 mg,Bayer AG,Virus,Over-the-Counter
+0,Metoprofen,Antiseptic,Capsule,319 mg,Novartis AG,Wound,Prescription
+0,Clarivir,Analgesic,Tablet,14 mg,Bristol-Myers Squibb Company,Pain,Prescription
+0,Ibuproprofen,Analgesic,Cream,178 mg,CSL Limited,Pain,Over-the-Counter
+0,Metocillin,Antibiotic,Cream,106 mg,Amgen Inc.,Depression,Over-the-Counter
+0,Cefprofen,Antiseptic,Tablet,245 mg,Novartis AG,Pain,Over-the-Counter
+0,Dextromycin,Antipyretic,Capsule,986 mg,Takeda Pharmaceutical Company Limited,Wound,Over-the-Counter
+0,Acetonazole,Antidepressant,Ointment,93 mg,Takeda Pharmaceutical Company Limited,Pain,Prescription
+0,Dextromycin,Antibiotic,Inhaler,920 mg,AbbVie Inc.,Pain,Over-the-Counter
+0,Ibupromycin,Antipyretic,Injection,760 mg,Boehringer Ingelheim GmbH,Wound,Prescription
+0,Amoxicillin,Analgesic,Cream,594 mg,Amgen Inc.,Fungus,Over-the-Counter
+0,Ibupronazole,Antiseptic,Cream,747 mg,Eli Lilly and Company,Pain,Prescription
+0,Clariprofen,Antidiabetic,Injection,650 mg,Takeda Pharmaceutical Company Limited,Wound,Prescription
+0,Ibupromycin,Antibiotic,Inhaler,486 mg,Teva Pharmaceutical Industries Ltd.,Fungus,Prescription
+0,Acetophen,Analgesic,Cream,76 mg,"Merck & Co., Inc.",Virus,Over-the-Counter
+0,Dextrostatin,Antifungal,Capsule,296 mg,"Merck & Co., Inc.",Wound,Prescription
+0,Dolomet,Antiseptic,Tablet,352 mg,Novo Nordisk A/S,Diabetes,Over-the-Counter
+0,Metophen,Antiseptic,Tablet,404 mg,AstraZeneca plc,Virus,Prescription
+0,Clariphen,Antipyretic,Syrup,956 mg,Takeda Pharmaceutical Company Limited,Pain,Over-the-Counter
+0,Cefcillin,Antidiabetic,Ointment,517 mg,Roche Holding AG,Pain,Over-the-Counter
+0,Amoximet,Antifungal,Capsule,727 mg,Johnson & Johnson,Pain,Over-the-Counter
+0,Amoxivir,Antifungal,Syrup,289 mg,Novartis AG,Virus,Over-the-Counter
+0,Metophen,Antidiabetic,Drops,44 mg,Takeda Pharmaceutical Company Limited,Fever,Over-the-Counter
+0,Clariphen,Analgesic,Ointment,742 mg,AbbVie Inc.,Depression,Over-the-Counter
+0,Cefmet,Antidepressant,Injection,720 mg,Sanofi S.A.,Diabetes,Prescription
+0,Cefnazole,Antiviral,Inhaler,520 mg,CSL Limited,Diabetes,Prescription
+0,Acetovir,Antidepressant,Injection,188 mg,"Gilead Sciences, Inc.",Wound,Prescription
+0,Dextrophen,Analgesic,Inhaler,406 mg,"Merck & Co., Inc.",Wound,Over-the-Counter
+0,Amoxinazole,Analgesic,Ointment,35 mg,Pfizer Inc.,Depression,Prescription
+0,Dextromet,Antiviral,Syrup,564 mg,AstraZeneca plc,Fever,Prescription
+0,Clarinazole,Antibiotic,Syrup,252 mg,Novartis AG,Infection,Over-the-Counter
+0,Ibuproprofen,Antidepressant,Inhaler,832 mg,Amgen Inc.,Fungus,Over-the-Counter
+0,Clarinazole,Analgesic,Tablet,234 mg,Novartis AG,Diabetes,Prescription
+0,Clariprofen,Antidepressant,Cream,801 mg,Boehringer Ingelheim GmbH,Infection,Prescription
+0,Clarimycin,Antibiotic,Syrup,254 mg,Biogen Inc.,Pain,Over-the-Counter
+0,Acetostatin,Analgesic,Inhaler,490 mg,CSL Limited,Diabetes,Prescription
+0,Ibuprophen,Antifungal,Ointment,967 mg,AbbVie Inc.,Depression,Over-the-Counter
+0,Ibuprovir,Antiseptic,Capsule,5 mg,Teva Pharmaceutical Industries Ltd.,Fever,Over-the-Counter
+0,Cefnazole,Antifungal,Capsule,83 mg,Eli Lilly and Company,Fungus,Over-the-Counter
+0,Amoxinazole,Antidiabetic,Tablet,489 mg,Sanofi S.A.,Pain,Over-the-Counter
+0,Metovir,Antidiabetic,Inhaler,277 mg,"Gilead Sciences, Inc.",Pain,Over-the-Counter
+0,Clarimet,Antidepressant,Injection,424 mg,AstraZeneca plc,Diabetes,Prescription
+0,Acetomet,Antiviral,Drops,226 mg,GlaxoSmithKline plc,Pain,Prescription
+0,Dolomet,Antidepressant,Syrup,82 mg,Johnson & Johnson,Infection,Prescription
+0,Cefcillin,Antifungal,Inhaler,36 mg,Eli Lilly and Company,Depression,Over-the-Counter
+0,Metoprofen,Antifungal,Injection,288 mg,GlaxoSmithKline plc,Pain,Prescription
+0,Claricillin,Antidiabetic,Tablet,734 mg,Novo Nordisk A/S,Virus,Prescription
+0,Clariprofen,Antidepressant,Drops,379 mg,Bayer AG,Virus,Over-the-Counter
+0,Cefphen,Antifungal,Cream,991 mg,Bristol-Myers Squibb Company,Fungus,Prescription
+0,Metophen,Antifungal,Tablet,346 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Ibuprocillin,Antidepressant,Inhaler,903 mg,Bristol-Myers Squibb Company,Infection,Prescription
+0,Metoprofen,Antibiotic,Drops,304 mg,Eli Lilly and Company,Diabetes,Prescription
+0,Metostatin,Antipyretic,Ointment,982 mg,CSL Limited,Pain,Over-the-Counter
+0,Cefstatin,Antidiabetic,Cream,214 mg,Biogen Inc.,Virus,Over-the-Counter
+0,Clarimet,Antidiabetic,Inhaler,646 mg,Sanofi S.A.,Diabetes,Over-the-Counter
+0,Amoxistatin,Antibiotic,Capsule,819 mg,Novo Nordisk A/S,Depression,Over-the-Counter
+0,Metovir,Antidiabetic,Drops,656 mg,GlaxoSmithKline plc,Pain,Prescription
+0,Ibupromycin,Analgesic,Ointment,382 mg,"Gilead Sciences, Inc.",Wound,Over-the-Counter
+0,Dextronazole,Antiseptic,Tablet,367 mg,Boehringer Ingelheim GmbH,Diabetes,Prescription
+0,Dolonazole,Antifungal,Ointment,533 mg,GlaxoSmithKline plc,Pain,Over-the-Counter
+0,Acetostatin,Antipyretic,Drops,498 mg,CSL Limited,Fever,Prescription
+0,Cefmet,Analgesic,Inhaler,969 mg,"Merck & Co., Inc.",Depression,Prescription
+0,Doloprofen,Antipyretic,Inhaler,338 mg,"Gilead Sciences, Inc.",Diabetes,Over-the-Counter
+0,Claristatin,Antipyretic,Capsule,47 mg,Pfizer Inc.,Infection,Prescription
+0,Acetovir,Antibiotic,Capsule,940 mg,Takeda Pharmaceutical Company Limited,Diabetes,Prescription
+0,Amoxivir,Antidiabetic,Tablet,830 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Dolonazole,Antiseptic,Injection,235 mg,"Gilead Sciences, Inc.",Virus,Over-the-Counter
+0,Ibuprophen,Antidepressant,Drops,976 mg,"Gilead Sciences, Inc.",Infection,Prescription
+0,Acetostatin,Antidiabetic,Cream,722 mg,Teva Pharmaceutical Industries Ltd.,Pain,Prescription
+0,Metomycin,Analgesic,Inhaler,108 mg,Roche Holding AG,Pain,Prescription
+0,Dextromet,Antiseptic,Syrup,998 mg,"Merck & Co., Inc.",Virus,Prescription
+0,Metovir,Antifungal,Ointment,579 mg,Pfizer Inc.,Diabetes,Prescription
+0,Clarinazole,Antidiabetic,Injection,101 mg,Roche Holding AG,Pain,Prescription
+0,Amoximycin,Antipyretic,Syrup,808 mg,Roche Holding AG,Fungus,Over-the-Counter
+0,Dolomet,Analgesic,Drops,387 mg,Eli Lilly and Company,Diabetes,Over-the-Counter
+0,Amoximycin,Antiviral,Capsule,382 mg,GlaxoSmithKline plc,Pain,Over-the-Counter
+0,Claristatin,Antidepressant,Injection,270 mg,Novo Nordisk A/S,Diabetes,Prescription
+0,Ibuprocillin,Antipyretic,Ointment,559 mg,Novartis AG,Wound,Over-the-Counter
+0,Metophen,Antiseptic,Injection,156 mg,Boehringer Ingelheim GmbH,Fever,Over-the-Counter
+0,Acetoprofen,Antiviral,Injection,150 mg,Teva Pharmaceutical Industries Ltd.,Infection,Prescription
+0,Cefnazole,Antipyretic,Capsule,412 mg,GlaxoSmithKline plc,Infection,Prescription
+0,Amoxicillin,Antidepressant,Tablet,511 mg,Sanofi S.A.,Virus,Over-the-Counter
+0,Claristatin,Antibiotic,Injection,572 mg,Novo Nordisk A/S,Wound,Over-the-Counter
+0,Dextrocillin,Antidepressant,Inhaler,328 mg,AbbVie Inc.,Depression,Over-the-Counter
+0,Dextromycin,Antidiabetic,Ointment,948 mg,Johnson & Johnson,Diabetes,Over-the-Counter
+0,Dolophen,Antibiotic,Tablet,20 mg,Boehringer Ingelheim GmbH,Fever,Over-the-Counter
+0,Metoprofen,Antiviral,Inhaler,771 mg,Johnson & Johnson,Wound,Prescription
+0,Dolomet,Antiviral,Tablet,347 mg,Takeda Pharmaceutical Company Limited,Pain,Prescription
+0,Amoximycin,Antidiabetic,Cream,876 mg,Bayer AG,Fungus,Prescription
+0,Dolomycin,Antidiabetic,Capsule,135 mg,Bayer AG,Fungus,Prescription
+0,Metophen,Antipyretic,Capsule,700 mg,GlaxoSmithKline plc,Infection,Over-the-Counter
+0,Dolomycin,Antidepressant,Inhaler,463 mg,"Merck & Co., Inc.",Wound,Prescription
+0,Dolophen,Analgesic,Ointment,686 mg,CSL Limited,Pain,Prescription
+0,Metonazole,Analgesic,Cream,124 mg,Pfizer Inc.,Fever,Prescription
+0,Metomet,Analgesic,Syrup,271 mg,Bayer AG,Fungus,Over-the-Counter
+0,Acetomet,Analgesic,Capsule,211 mg,Boehringer Ingelheim GmbH,Depression,Over-the-Counter
+0,Doloprofen,Antipyretic,Syrup,567 mg,Takeda Pharmaceutical Company Limited,Depression,Prescription
+0,Dextrostatin,Antifungal,Cream,590 mg,Roche Holding AG,Virus,Over-the-Counter
+0,Cefprofen,Antibiotic,Ointment,114 mg,Novo Nordisk A/S,Wound,Over-the-Counter
+0,Metomet,Antidepressant,Injection,406 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Acetovir,Analgesic,Tablet,563 mg,CSL Limited,Virus,Prescription
+0,Dextrovir,Antifungal,Inhaler,940 mg,Biogen Inc.,Diabetes,Prescription
+0,Clarivir,Antidiabetic,Drops,391 mg,Boehringer Ingelheim GmbH,Fever,Prescription
+0,Clarimycin,Antiviral,Cream,367 mg,"Merck & Co., Inc.",Virus,Prescription
+0,Amoxicillin,Antipyretic,Drops,941 mg,CSL Limited,Virus,Prescription
+0,Clarivir,Antibiotic,Capsule,504 mg,Roche Holding AG,Diabetes,Over-the-Counter
+0,Metophen,Antidiabetic,Capsule,879 mg,Roche Holding AG,Fever,Over-the-Counter
+0,Metonazole,Antibiotic,Drops,108 mg,Eli Lilly and Company,Infection,Over-the-Counter
+0,Dextronazole,Antibiotic,Ointment,917 mg,"Merck & Co., Inc.",Infection,Prescription
+0,Amoximycin,Antiseptic,Drops,410 mg,Roche Holding AG,Fungus,Prescription
+0,Ibupromycin,Antidepressant,Drops,197 mg,Roche Holding AG,Diabetes,Prescription
+0,Metovir,Antidepressant,Ointment,992 mg,"Merck & Co., Inc.",Pain,Prescription
+0,Metoprofen,Antibiotic,Ointment,792 mg,Johnson & Johnson,Virus,Prescription
+0,Dextrophen,Antidepressant,Inhaler,363 mg,Roche Holding AG,Fungus,Over-the-Counter
+0,Cefstatin,Antiviral,Tablet,808 mg,CSL Limited,Fungus,Prescription
+0,Acetocillin,Antiseptic,Capsule,263 mg,GlaxoSmithKline plc,Virus,Over-the-Counter
+0,Metonazole,Antidiabetic,Cream,585 mg,Eli Lilly and Company,Fungus,Prescription
+0,Ibupronazole,Antifungal,Injection,646 mg,Roche Holding AG,Pain,Prescription
+0,Cefprofen,Antibiotic,Tablet,112 mg,Johnson & Johnson,Pain,Over-the-Counter
+0,Ibuprostatin,Antidiabetic,Drops,157 mg,Amgen Inc.,Diabetes,Prescription
+0,Ibupronazole,Analgesic,Ointment,976 mg,Takeda Pharmaceutical Company Limited,Depression,Prescription
+0,Dolomycin,Antidepressant,Ointment,284 mg,Johnson & Johnson,Wound,Over-the-Counter
+0,Dolonazole,Antiviral,Capsule,503 mg,AbbVie Inc.,Wound,Prescription
+0,Dolovir,Antibiotic,Ointment,790 mg,Sanofi S.A.,Infection,Prescription
+0,Ibupromycin,Antiviral,Injection,260 mg,Takeda Pharmaceutical Company Limited,Pain,Prescription
+0,Cefmet,Antidepressant,Syrup,360 mg,"Gilead Sciences, Inc.",Infection,Prescription
+0,Cefstatin,Analgesic,Cream,394 mg,Roche Holding AG,Fever,Over-the-Counter
+0,Cefphen,Analgesic,Syrup,50 mg,"Merck & Co., Inc.",Fungus,Prescription
+0,Clarimet,Antipyretic,Capsule,714 mg,Novartis AG,Wound,Prescription
+0,Acetostatin,Antiviral,Inhaler,127 mg,"Gilead Sciences, Inc.",Fever,Prescription
+0,Clariprofen,Antipyretic,Drops,457 mg,"Merck & Co., Inc.",Depression,Prescription
+0,Cefmycin,Antifungal,Ointment,778 mg,Sanofi S.A.,Diabetes,Prescription
+0,Clarinazole,Antipyretic,Ointment,419 mg,Novartis AG,Virus,Prescription
+0,Clarimet,Antipyretic,Tablet,957 mg,Novo Nordisk A/S,Fungus,Prescription
+0,Acetomet,Antidiabetic,Cream,985 mg,GlaxoSmithKline plc,Fungus,Over-the-Counter
+0,Ibupromycin,Antifungal,Ointment,990 mg,Johnson & Johnson,Fungus,Prescription
+0,Cefphen,Antidiabetic,Syrup,194 mg,Pfizer Inc.,Fungus,Prescription
+0,Clariprofen,Antidiabetic,Cream,706 mg,"Gilead Sciences, Inc.",Wound,Prescription
+0,Amoxiphen,Antipyretic,Injection,984 mg,"Merck & Co., Inc.",Pain,Prescription
+0,Dextronazole,Antipyretic,Drops,813 mg,Pfizer Inc.,Fever,Over-the-Counter
+0,Acetomycin,Antiseptic,Cream,493 mg,Amgen Inc.,Pain,Prescription
+0,Ibuprocillin,Antiseptic,Inhaler,997 mg,Sanofi S.A.,Depression,Over-the-Counter
+0,Dextrocillin,Antifungal,Capsule,110 mg,Johnson & Johnson,Diabetes,Over-the-Counter
+0,Dolovir,Antifungal,Inhaler,58 mg,Bayer AG,Fever,Over-the-Counter
+0,Cefstatin,Antibiotic,Capsule,726 mg,Takeda Pharmaceutical Company Limited,Depression,Over-the-Counter
+0,Ibupronazole,Antibiotic,Ointment,894 mg,"Merck & Co., Inc.",Depression,Over-the-Counter
+0,Acetoprofen,Antifungal,Injection,906 mg,AbbVie Inc.,Diabetes,Prescription
+0,Cefstatin,Antifungal,Injection,876 mg,Roche Holding AG,Wound,Over-the-Counter
+0,Dextronazole,Analgesic,Tablet,723 mg,Bristol-Myers Squibb Company,Infection,Prescription
+0,Dextrocillin,Antipyretic,Injection,54 mg,Roche Holding AG,Fungus,Prescription
+0,Ibupromycin,Antipyretic,Tablet,47 mg,Teva Pharmaceutical Industries Ltd.,Pain,Prescription
+0,Acetomycin,Antipyretic,Syrup,272 mg,AbbVie Inc.,Virus,Over-the-Counter
+0,Ibuprocillin,Analgesic,Capsule,743 mg,Eli Lilly and Company,Fever,Prescription
+0,Clarimycin,Antiviral,Ointment,509 mg,Novo Nordisk A/S,Wound,Prescription
+0,Dolocillin,Antifungal,Tablet,608 mg,AbbVie Inc.,Pain,Prescription
+0,Clarivir,Analgesic,Injection,92 mg,Roche Holding AG,Depression,Over-the-Counter
+0,Dolonazole,Antiviral,Syrup,505 mg,Novo Nordisk A/S,Infection,Over-the-Counter
+0,Acetophen,Antipyretic,Drops,784 mg,"Gilead Sciences, Inc.",Pain,Over-the-Counter
+0,Acetoprofen,Antiviral,Ointment,53 mg,Amgen Inc.,Wound,Over-the-Counter
+0,Claristatin,Antifungal,Capsule,472 mg,Boehringer Ingelheim GmbH,Wound,Prescription
+0,Ibupronazole,Analgesic,Ointment,548 mg,Novartis AG,Depression,Prescription
+0,Cefvir,Analgesic,Capsule,305 mg,Bristol-Myers Squibb Company,Wound,Prescription
+0,Cefnazole,Antiviral,Injection,697 mg,Bristol-Myers Squibb Company,Fever,Prescription
+0,Clarivir,Antifungal,Inhaler,438 mg,Bristol-Myers Squibb Company,Virus,Over-the-Counter
+0,Dextrovir,Antifungal,Inhaler,827 mg,Teva Pharmaceutical Industries Ltd.,Fungus,Over-the-Counter
+0,Acetomycin,Antiviral,Tablet,176 mg,Biogen Inc.,Wound,Prescription
+0,Amoxivir,Antifungal,Ointment,279 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Dolomet,Antidiabetic,Capsule,898 mg,Johnson & Johnson,Fever,Over-the-Counter
+0,Ibuprostatin,Antiseptic,Cream,256 mg,AstraZeneca plc,Fungus,Over-the-Counter
+0,Doloprofen,Antidiabetic,Syrup,942 mg,"Merck & Co., Inc.",Fever,Prescription
+0,Metophen,Antibiotic,Tablet,197 mg,Sanofi S.A.,Depression,Over-the-Counter
+0,Metovir,Antipyretic,Drops,493 mg,Sanofi S.A.,Fever,Over-the-Counter
+0,Acetocillin,Antidepressant,Ointment,765 mg,Bristol-Myers Squibb Company,Fever,Prescription
+0,Ibupromycin,Antifungal,Syrup,815 mg,Pfizer Inc.,Fever,Over-the-Counter
+0,Dextromet,Antibiotic,Syrup,257 mg,Boehringer Ingelheim GmbH,Infection,Prescription
+0,Ibuprostatin,Antiviral,Ointment,935 mg,Johnson & Johnson,Fever,Over-the-Counter
+0,Cefprofen,Antidepressant,Tablet,401 mg,"Gilead Sciences, Inc.",Virus,Over-the-Counter
+0,Dextronazole,Antibiotic,Tablet,491 mg,Boehringer Ingelheim GmbH,Infection,Over-the-Counter
+0,Doloprofen,Antidiabetic,Inhaler,131 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Dextromet,Antidiabetic,Syrup,591 mg,GlaxoSmithKline plc,Fever,Over-the-Counter
+0,Acetovir,Antifungal,Drops,521 mg,Novo Nordisk A/S,Depression,Over-the-Counter
+0,Doloprofen,Antidepressant,Syrup,223 mg,Amgen Inc.,Wound,Over-the-Counter
+0,Cefphen,Antibiotic,Cream,461 mg,Roche Holding AG,Depression,Prescription
+0,Dolophen,Analgesic,Syrup,581 mg,Bristol-Myers Squibb Company,Virus,Over-the-Counter
+0,Dextromet,Antifungal,Drops,94 mg,AstraZeneca plc,Fever,Prescription
+0,Dextroprofen,Antidepressant,Drops,389 mg,"Merck & Co., Inc.",Diabetes,Over-the-Counter
+0,Clarivir,Antipyretic,Drops,730 mg,Pfizer Inc.,Pain,Over-the-Counter
+0,Amoxivir,Antiseptic,Syrup,198 mg,Sanofi S.A.,Virus,Prescription
+0,Cefprofen,Antiviral,Inhaler,391 mg,Eli Lilly and Company,Depression,Over-the-Counter
+0,Ibuproprofen,Antidepressant,Tablet,782 mg,Novartis AG,Fever,Prescription
+0,Cefprofen,Antiviral,Ointment,404 mg,Novo Nordisk A/S,Pain,Over-the-Counter
+0,Ibuproprofen,Antidepressant,Tablet,549 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Claricillin,Antipyretic,Injection,375 mg,Johnson & Johnson,Fever,Prescription
+0,Dextromycin,Antidiabetic,Ointment,272 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Over-the-Counter
+0,Dolocillin,Analgesic,Capsule,225 mg,Sanofi S.A.,Depression,Over-the-Counter
+0,Ibuprophen,Antipyretic,Tablet,118 mg,Pfizer Inc.,Virus,Over-the-Counter
+0,Cefphen,Antipyretic,Tablet,999 mg,AstraZeneca plc,Depression,Prescription
+0,Dolophen,Antidepressant,Tablet,650 mg,Novo Nordisk A/S,Depression,Prescription
+0,Ibupronazole,Antidiabetic,Inhaler,886 mg,Boehringer Ingelheim GmbH,Depression,Over-the-Counter
+0,Cefmet,Antipyretic,Inhaler,222 mg,Johnson & Johnson,Fungus,Over-the-Counter
+0,Clariphen,Antifungal,Cream,90 mg,Novartis AG,Virus,Over-the-Counter
+0,Metophen,Antiviral,Capsule,218 mg,AbbVie Inc.,Infection,Prescription
+0,Dolophen,Antipyretic,Ointment,66 mg,CSL Limited,Fungus,Prescription
+0,Acetophen,Antibiotic,Tablet,21 mg,Novartis AG,Virus,Over-the-Counter
+0,Dolocillin,Antiseptic,Capsule,279 mg,"Merck & Co., Inc.",Depression,Prescription
+0,Dextrocillin,Antiviral,Ointment,252 mg,Amgen Inc.,Fever,Over-the-Counter
+0,Metovir,Antiseptic,Cream,44 mg,Novartis AG,Depression,Over-the-Counter
+0,Dextromet,Antifungal,Injection,731 mg,Bristol-Myers Squibb Company,Virus,Over-the-Counter
+0,Dolostatin,Antiviral,Drops,865 mg,Teva Pharmaceutical Industries Ltd.,Infection,Over-the-Counter
+0,Dolonazole,Analgesic,Capsule,101 mg,Takeda Pharmaceutical Company Limited,Fungus,Prescription
+0,Ibupronazole,Antidepressant,Syrup,504 mg,Pfizer Inc.,Diabetes,Over-the-Counter
+0,Dextrocillin,Antidiabetic,Ointment,359 mg,Bayer AG,Fever,Over-the-Counter
+0,Acetomycin,Analgesic,Ointment,755 mg,Bayer AG,Wound,Over-the-Counter
+0,Claristatin,Analgesic,Drops,636 mg,Takeda Pharmaceutical Company Limited,Wound,Over-the-Counter
+0,Metoprofen,Antiseptic,Injection,113 mg,"Merck & Co., Inc.",Wound,Prescription
+0,Clariphen,Analgesic,Ointment,512 mg,"Merck & Co., Inc.",Fungus,Prescription
+0,Ibupronazole,Antifungal,Capsule,157 mg,GlaxoSmithKline plc,Pain,Over-the-Counter
+0,Cefmycin,Antibiotic,Tablet,38 mg,"Gilead Sciences, Inc.",Diabetes,Over-the-Counter
+0,Acetovir,Antiviral,Ointment,731 mg,AbbVie Inc.,Infection,Over-the-Counter
+0,Acetomycin,Antibiotic,Drops,603 mg,Biogen Inc.,Pain,Over-the-Counter
+0,Ibuprophen,Antifungal,Inhaler,451 mg,Boehringer Ingelheim GmbH,Depression,Over-the-Counter
+0,Metostatin,Antibiotic,Injection,19 mg,Biogen Inc.,Fever,Prescription
+0,Ibupromycin,Antidepressant,Cream,25 mg,"Gilead Sciences, Inc.",Pain,Over-the-Counter
+0,Dextromycin,Antidiabetic,Capsule,708 mg,"Gilead Sciences, Inc.",Fungus,Prescription
+0,Dolovir,Antidepressant,Syrup,678 mg,AstraZeneca plc,Diabetes,Over-the-Counter
+0,Acetomet,Analgesic,Cream,948 mg,Roche Holding AG,Infection,Over-the-Counter
+0,Acetonazole,Analgesic,Ointment,543 mg,Novo Nordisk A/S,Depression,Over-the-Counter
+0,Dolomycin,Antidepressant,Injection,537 mg,Roche Holding AG,Fever,Prescription
+0,Dextronazole,Analgesic,Cream,176 mg,Sanofi S.A.,Fever,Prescription
+0,Ibuprostatin,Antifungal,Drops,319 mg,Takeda Pharmaceutical Company Limited,Fever,Over-the-Counter
+0,Dolomycin,Antiseptic,Tablet,281 mg,Novartis AG,Fever,Over-the-Counter
+0,Amoxiprofen,Antidepressant,Syrup,60 mg,CSL Limited,Virus,Prescription
+0,Dolovir,Antipyretic,Cream,540 mg,Novo Nordisk A/S,Fever,Over-the-Counter
+0,Dextrovir,Antidepressant,Injection,138 mg,Boehringer Ingelheim GmbH,Fever,Over-the-Counter
+0,Ibuprovir,Antiviral,Syrup,589 mg,Teva Pharmaceutical Industries Ltd.,Virus,Over-the-Counter
+0,Clariprofen,Antiviral,Capsule,372 mg,Pfizer Inc.,Depression,Prescription
+0,Amoxiphen,Antipyretic,Capsule,961 mg,GlaxoSmithKline plc,Depression,Prescription
+0,Clarivir,Antifungal,Tablet,97 mg,Boehringer Ingelheim GmbH,Infection,Prescription
+0,Amoxivir,Antidepressant,Cream,230 mg,Johnson & Johnson,Infection,Prescription
+0,Clarimet,Analgesic,Capsule,20 mg,Johnson & Johnson,Depression,Prescription
+0,Metoprofen,Antiseptic,Tablet,486 mg,Johnson & Johnson,Virus,Prescription
+0,Claricillin,Antiseptic,Injection,463 mg,Bayer AG,Pain,Over-the-Counter
+0,Metophen,Antibiotic,Capsule,89 mg,AbbVie Inc.,Fever,Prescription
+0,Ibupromet,Antibiotic,Drops,919 mg,Biogen Inc.,Depression,Prescription
+0,Ibuprophen,Antiviral,Drops,617 mg,CSL Limited,Diabetes,Over-the-Counter
+0,Acetocillin,Antibiotic,Inhaler,742 mg,"Merck & Co., Inc.",Depression,Over-the-Counter
+0,Metostatin,Analgesic,Syrup,761 mg,Novartis AG,Depression,Over-the-Counter
+0,Dolostatin,Antidepressant,Inhaler,332 mg,"Merck & Co., Inc.",Depression,Prescription
+0,Cefstatin,Antidiabetic,Syrup,456 mg,"Merck & Co., Inc.",Wound,Prescription
+0,Dolophen,Antidepressant,Inhaler,166 mg,"Gilead Sciences, Inc.",Pain,Prescription
+0,Dextrophen,Antidiabetic,Injection,286 mg,Eli Lilly and Company,Virus,Over-the-Counter
+0,Cefphen,Analgesic,Tablet,184 mg,"Gilead Sciences, Inc.",Diabetes,Over-the-Counter
+0,Dextrovir,Antipyretic,Cream,523 mg,Takeda Pharmaceutical Company Limited,Virus,Prescription
+0,Acetophen,Antifungal,Capsule,151 mg,Eli Lilly and Company,Infection,Prescription
+0,Amoximet,Antiviral,Capsule,378 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Metovir,Antibiotic,Injection,148 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Ibuprophen,Antiseptic,Cream,4 mg,Novartis AG,Diabetes,Prescription
+0,Clarimycin,Antibiotic,Inhaler,181 mg,AstraZeneca plc,Infection,Prescription
+0,Acetomet,Antifungal,Injection,687 mg,CSL Limited,Fever,Prescription
+0,Metocillin,Antiseptic,Ointment,609 mg,Boehringer Ingelheim GmbH,Pain,Over-the-Counter
+0,Dextrophen,Antidepressant,Ointment,639 mg,"Gilead Sciences, Inc.",Wound,Prescription
+0,Clarimet,Antibiotic,Inhaler,664 mg,Biogen Inc.,Infection,Prescription
+0,Claristatin,Antipyretic,Syrup,694 mg,Bristol-Myers Squibb Company,Diabetes,Over-the-Counter
+0,Ibupronazole,Antipyretic,Injection,480 mg,Takeda Pharmaceutical Company Limited,Fever,Prescription
+0,Dolophen,Antiseptic,Capsule,962 mg,AstraZeneca plc,Pain,Prescription
+0,Dolomycin,Antidiabetic,Cream,656 mg,Bayer AG,Pain,Over-the-Counter
+0,Amoxiphen,Antipyretic,Ointment,309 mg,Boehringer Ingelheim GmbH,Virus,Prescription
+0,Clarinazole,Antidiabetic,Tablet,500 mg,GlaxoSmithKline plc,Infection,Prescription
+0,Clarimet,Antifungal,Injection,821 mg,Novo Nordisk A/S,Virus,Over-the-Counter
+0,Dextronazole,Antibiotic,Syrup,232 mg,"Gilead Sciences, Inc.",Fungus,Prescription
+0,Amoxiphen,Antipyretic,Capsule,158 mg,Biogen Inc.,Virus,Over-the-Counter
+0,Amoximycin,Antiseptic,Injection,449 mg,Boehringer Ingelheim GmbH,Depression,Over-the-Counter
+0,Acetonazole,Antipyretic,Ointment,309 mg,Novartis AG,Infection,Prescription
+0,Amoxinazole,Analgesic,Capsule,574 mg,AbbVie Inc.,Wound,Prescription
+0,Dextrocillin,Antipyretic,Drops,624 mg,Sanofi S.A.,Depression,Over-the-Counter
+0,Ibupromet,Antidepressant,Capsule,790 mg,Roche Holding AG,Fungus,Prescription
+0,Acetovir,Antidiabetic,Drops,458 mg,Novo Nordisk A/S,Virus,Over-the-Counter
+0,Amoxicillin,Antibiotic,Tablet,526 mg,Eli Lilly and Company,Pain,Prescription
+0,Acetomet,Antipyretic,Drops,616 mg,Teva Pharmaceutical Industries Ltd.,Fungus,Prescription
+0,Ibupromycin,Antifungal,Drops,576 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Clarivir,Antiseptic,Inhaler,871 mg,Biogen Inc.,Pain,Prescription
+0,Dolocillin,Antipyretic,Capsule,896 mg,Amgen Inc.,Fungus,Over-the-Counter
+0,Dextrophen,Antiseptic,Tablet,66 mg,"Gilead Sciences, Inc.",Wound,Over-the-Counter
+0,Dolomet,Antidiabetic,Capsule,99 mg,Boehringer Ingelheim GmbH,Wound,Over-the-Counter
+0,Metoprofen,Antiseptic,Inhaler,570 mg,Boehringer Ingelheim GmbH,Infection,Over-the-Counter
+0,Amoxivir,Analgesic,Syrup,837 mg,Roche Holding AG,Fever,Over-the-Counter
+0,Claristatin,Antibiotic,Ointment,471 mg,"Gilead Sciences, Inc.",Infection,Prescription
+0,Acetomycin,Antibiotic,Injection,320 mg,Takeda Pharmaceutical Company Limited,Depression,Over-the-Counter
+0,Ibuprophen,Antiseptic,Capsule,660 mg,Bristol-Myers Squibb Company,Wound,Over-the-Counter
+0,Doloprofen,Antipyretic,Tablet,723 mg,Novartis AG,Virus,Over-the-Counter
+0,Cefphen,Analgesic,Ointment,563 mg,"Merck & Co., Inc.",Depression,Prescription
+0,Dextrostatin,Antidepressant,Injection,674 mg,Novartis AG,Fever,Over-the-Counter
+0,Dextromycin,Antiviral,Inhaler,521 mg,AbbVie Inc.,Diabetes,Prescription
+0,Ibuprovir,Analgesic,Syrup,153 mg,Pfizer Inc.,Virus,Prescription
+0,Clarinazole,Antibiotic,Capsule,159 mg,Teva Pharmaceutical Industries Ltd.,Pain,Over-the-Counter
+0,Dextromet,Antidepressant,Syrup,756 mg,"Gilead Sciences, Inc.",Depression,Prescription
+0,Cefvir,Antipyretic,Injection,923 mg,Biogen Inc.,Pain,Prescription
+0,Dextrophen,Antidiabetic,Syrup,949 mg,Bayer AG,Wound,Over-the-Counter
+0,Cefcillin,Antiseptic,Cream,580 mg,Johnson & Johnson,Fever,Prescription
+0,Amoximycin,Antibiotic,Inhaler,107 mg,GlaxoSmithKline plc,Infection,Over-the-Counter
+0,Dolocillin,Antidepressant,Ointment,849 mg,Amgen Inc.,Pain,Prescription
+0,Acetomet,Antibiotic,Tablet,779 mg,CSL Limited,Virus,Over-the-Counter
+0,Metostatin,Antifungal,Ointment,305 mg,Novo Nordisk A/S,Diabetes,Over-the-Counter
+0,Amoximet,Antidiabetic,Inhaler,292 mg,GlaxoSmithKline plc,Wound,Over-the-Counter
+0,Cefmet,Antidiabetic,Cream,498 mg,GlaxoSmithKline plc,Diabetes,Over-the-Counter
+0,Ibuproprofen,Antiviral,Capsule,6 mg,Novo Nordisk A/S,Pain,Prescription
+0,Metocillin,Antiviral,Cream,93 mg,GlaxoSmithKline plc,Fever,Over-the-Counter
+0,Acetomycin,Antidiabetic,Inhaler,135 mg,Pfizer Inc.,Diabetes,Over-the-Counter
+0,Metophen,Antibiotic,Syrup,444 mg,Takeda Pharmaceutical Company Limited,Wound,Over-the-Counter
+0,Ibuprophen,Antiviral,Tablet,932 mg,Novo Nordisk A/S,Depression,Over-the-Counter
+0,Cefcillin,Antifungal,Drops,12 mg,"Gilead Sciences, Inc.",Depression,Prescription
+0,Cefcillin,Antidiabetic,Drops,722 mg,Bayer AG,Infection,Over-the-Counter
+0,Metomet,Antiviral,Tablet,689 mg,Teva Pharmaceutical Industries Ltd.,Pain,Over-the-Counter
+0,Clarinazole,Antibiotic,Injection,599 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Prescription
+0,Dextrostatin,Antipyretic,Capsule,427 mg,Eli Lilly and Company,Pain,Prescription
+0,Dolocillin,Antifungal,Tablet,972 mg,AstraZeneca plc,Diabetes,Over-the-Counter
+0,Acetovir,Antibiotic,Drops,676 mg,Bayer AG,Depression,Over-the-Counter
+0,Metomet,Antifungal,Syrup,710 mg,Teva Pharmaceutical Industries Ltd.,Pain,Prescription
+0,Dolocillin,Antipyretic,Syrup,674 mg,Teva Pharmaceutical Industries Ltd.,Pain,Prescription
+0,Clarimet,Antifungal,Inhaler,516 mg,Eli Lilly and Company,Pain,Over-the-Counter
+0,Acetostatin,Antipyretic,Inhaler,447 mg,Biogen Inc.,Depression,Prescription
+0,Dextrocillin,Antiviral,Syrup,150 mg,Johnson & Johnson,Depression,Prescription
+0,Clarimet,Antipyretic,Tablet,678 mg,Johnson & Johnson,Fever,Prescription
+0,Acetomycin,Antiseptic,Injection,912 mg,"Merck & Co., Inc.",Fungus,Prescription
+0,Acetoprofen,Antiseptic,Syrup,922 mg,CSL Limited,Infection,Over-the-Counter
+0,Cefnazole,Analgesic,Drops,711 mg,Teva Pharmaceutical Industries Ltd.,Fever,Over-the-Counter
+0,Dolocillin,Antidiabetic,Injection,685 mg,"Gilead Sciences, Inc.",Virus,Over-the-Counter
+0,Ibuprostatin,Antiviral,Inhaler,44 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Over-the-Counter
+0,Metoprofen,Antifungal,Ointment,858 mg,Pfizer Inc.,Depression,Over-the-Counter
+0,Amoxiprofen,Analgesic,Inhaler,509 mg,Johnson & Johnson,Wound,Prescription
+0,Amoxivir,Antiviral,Syrup,492 mg,CSL Limited,Virus,Prescription
+0,Ibuprophen,Antifungal,Inhaler,587 mg,Johnson & Johnson,Fungus,Over-the-Counter
+0,Ibupromet,Antidiabetic,Syrup,43 mg,AbbVie Inc.,Pain,Prescription
+0,Metostatin,Antiviral,Tablet,33 mg,Novo Nordisk A/S,Infection,Prescription
+0,Dolophen,Antidepressant,Ointment,332 mg,Roche Holding AG,Fungus,Prescription
+0,Cefprofen,Antipyretic,Tablet,473 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Dolostatin,Antiviral,Injection,501 mg,Boehringer Ingelheim GmbH,Fungus,Prescription
+0,Ibuprostatin,Antiseptic,Tablet,202 mg,Bristol-Myers Squibb Company,Fever,Prescription
+0,Acetoprofen,Antipyretic,Injection,554 mg,Takeda Pharmaceutical Company Limited,Fever,Prescription
+0,Ibuproprofen,Antipyretic,Syrup,575 mg,Johnson & Johnson,Diabetes,Prescription
+0,Clariphen,Analgesic,Syrup,788 mg,Novartis AG,Wound,Over-the-Counter
+0,Clarivir,Antiseptic,Inhaler,715 mg,AstraZeneca plc,Infection,Over-the-Counter
+0,Dextrocillin,Antidiabetic,Ointment,282 mg,Johnson & Johnson,Wound,Over-the-Counter
+0,Amoxistatin,Antiviral,Capsule,949 mg,CSL Limited,Virus,Over-the-Counter
+0,Amoxiprofen,Antibiotic,Drops,755 mg,Teva Pharmaceutical Industries Ltd.,Fever,Prescription
+0,Claristatin,Antibiotic,Tablet,657 mg,Novo Nordisk A/S,Pain,Prescription
+0,Dextrophen,Antidepressant,Tablet,839 mg,Johnson & Johnson,Pain,Prescription
+0,Amoximycin,Antidepressant,Syrup,929 mg,Boehringer Ingelheim GmbH,Depression,Prescription
+0,Cefprofen,Antidepressant,Drops,842 mg,Amgen Inc.,Pain,Prescription
+0,Ibuprocillin,Antiviral,Syrup,12 mg,"Gilead Sciences, Inc.",Virus,Prescription
+0,Dextromycin,Antifungal,Ointment,145 mg,GlaxoSmithKline plc,Wound,Over-the-Counter
+0,Ibupromycin,Antidiabetic,Drops,989 mg,Novo Nordisk A/S,Fever,Prescription
+0,Acetophen,Antifungal,Capsule,487 mg,Eli Lilly and Company,Wound,Prescription
+0,Cefstatin,Antibiotic,Cream,857 mg,Takeda Pharmaceutical Company Limited,Infection,Prescription
+0,Dextrostatin,Analgesic,Injection,48 mg,Biogen Inc.,Pain,Over-the-Counter
+0,Clarinazole,Antidiabetic,Syrup,799 mg,Roche Holding AG,Virus,Over-the-Counter
+0,Acetomycin,Antibiotic,Injection,735 mg,Novo Nordisk A/S,Virus,Over-the-Counter
+0,Acetoprofen,Antidiabetic,Syrup,870 mg,Novo Nordisk A/S,Fever,Prescription
+0,Metomycin,Antipyretic,Syrup,197 mg,Novo Nordisk A/S,Virus,Over-the-Counter
+0,Clarivir,Analgesic,Syrup,670 mg,Teva Pharmaceutical Industries Ltd.,Fungus,Prescription
+0,Metovir,Antibiotic,Inhaler,471 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Ibuprophen,Antifungal,Cream,157 mg,Roche Holding AG,Infection,Over-the-Counter
+0,Doloprofen,Antifungal,Ointment,671 mg,Biogen Inc.,Diabetes,Over-the-Counter
+0,Claristatin,Analgesic,Capsule,815 mg,Bristol-Myers Squibb Company,Depression,Prescription
+0,Clarinazole,Antibiotic,Drops,435 mg,Amgen Inc.,Virus,Over-the-Counter
+0,Acetophen,Antiviral,Injection,144 mg,CSL Limited,Wound,Prescription
+0,Dolovir,Antidiabetic,Inhaler,466 mg,AbbVie Inc.,Infection,Over-the-Counter
+0,Amoxistatin,Antifungal,Inhaler,722 mg,AstraZeneca plc,Infection,Prescription
+0,Ibuprostatin,Analgesic,Syrup,370 mg,Takeda Pharmaceutical Company Limited,Fever,Over-the-Counter
+0,Acetocillin,Analgesic,Tablet,716 mg,Novartis AG,Fungus,Prescription
+0,Ibupromycin,Antiviral,Capsule,702 mg,AbbVie Inc.,Depression,Prescription
+0,Cefmet,Analgesic,Inhaler,39 mg,Takeda Pharmaceutical Company Limited,Fungus,Prescription
+0,Dextrostatin,Antifungal,Ointment,706 mg,Bristol-Myers Squibb Company,Pain,Prescription
+0,Claricillin,Antidiabetic,Tablet,508 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Metonazole,Antidiabetic,Capsule,279 mg,Novartis AG,Virus,Prescription
+0,Claricillin,Antidepressant,Capsule,286 mg,AstraZeneca plc,Fungus,Over-the-Counter
+0,Amoxiphen,Analgesic,Capsule,180 mg,Amgen Inc.,Fever,Over-the-Counter
+0,Dolomycin,Antidiabetic,Drops,155 mg,Boehringer Ingelheim GmbH,Diabetes,Prescription
+0,Cefmet,Analgesic,Inhaler,332 mg,Roche Holding AG,Diabetes,Prescription
+0,Ibuproprofen,Antibiotic,Capsule,474 mg,Pfizer Inc.,Virus,Over-the-Counter
+0,Ibupronazole,Antiseptic,Cream,12 mg,Bristol-Myers Squibb Company,Fungus,Over-the-Counter
+0,Ibupromet,Analgesic,Ointment,771 mg,Johnson & Johnson,Wound,Over-the-Counter
+0,Cefphen,Antidiabetic,Injection,557 mg,Amgen Inc.,Depression,Prescription
+0,Clariprofen,Antifungal,Drops,968 mg,Eli Lilly and Company,Virus,Over-the-Counter
+0,Acetostatin,Analgesic,Ointment,194 mg,Roche Holding AG,Infection,Prescription
+0,Acetomet,Antidiabetic,Syrup,137 mg,Eli Lilly and Company,Fungus,Over-the-Counter
+0,Clarivir,Antiviral,Syrup,82 mg,Takeda Pharmaceutical Company Limited,Infection,Over-the-Counter
+0,Dextrovir,Antifungal,Capsule,35 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Acetomet,Antiseptic,Inhaler,625 mg,Teva Pharmaceutical Industries Ltd.,Infection,Prescription
+0,Clarimet,Antiseptic,Drops,999 mg,AbbVie Inc.,Fungus,Over-the-Counter
+0,Dextrovir,Analgesic,Inhaler,992 mg,GlaxoSmithKline plc,Virus,Over-the-Counter
+0,Ibuproprofen,Analgesic,Syrup,60 mg,AstraZeneca plc,Pain,Over-the-Counter
+0,Dextrostatin,Antidepressant,Injection,477 mg,Bristol-Myers Squibb Company,Diabetes,Over-the-Counter
+0,Acetoprofen,Antifungal,Inhaler,973 mg,Johnson & Johnson,Virus,Prescription
+0,Amoxiphen,Antiviral,Drops,295 mg,Novartis AG,Infection,Over-the-Counter
+0,Dolonazole,Antidepressant,Drops,891 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Prescription
+0,Clarinazole,Antidepressant,Capsule,177 mg,Bristol-Myers Squibb Company,Fever,Prescription
+0,Metoprofen,Antibiotic,Inhaler,610 mg,Roche Holding AG,Infection,Prescription
+0,Ibuprovir,Antifungal,Capsule,976 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Prescription
+0,Acetophen,Antifungal,Inhaler,398 mg,Eli Lilly and Company,Fungus,Prescription
+0,Claricillin,Analgesic,Inhaler,68 mg,Sanofi S.A.,Virus,Prescription
+0,Dextrophen,Antidiabetic,Drops,637 mg,"Merck & Co., Inc.",Pain,Over-the-Counter
+0,Amoximycin,Antiviral,Ointment,911 mg,Roche Holding AG,Depression,Over-the-Counter
+0,Doloprofen,Antidepressant,Drops,472 mg,Boehringer Ingelheim GmbH,Wound,Prescription
+0,Cefstatin,Antipyretic,Inhaler,152 mg,Novartis AG,Wound,Over-the-Counter
+0,Clarinazole,Antiviral,Injection,731 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Cefprofen,Antidepressant,Capsule,787 mg,Bayer AG,Infection,Prescription
+0,Acetoprofen,Antibiotic,Capsule,753 mg,Novo Nordisk A/S,Virus,Prescription
+0,Acetoprofen,Antibiotic,Inhaler,943 mg,Johnson & Johnson,Fever,Prescription
+0,Dextrovir,Analgesic,Tablet,368 mg,GlaxoSmithKline plc,Pain,Prescription
+0,Ibuprovir,Antipyretic,Ointment,838 mg,Johnson & Johnson,Wound,Over-the-Counter
+0,Clarimet,Antiviral,Ointment,296 mg,Roche Holding AG,Depression,Prescription
+0,Clarimycin,Antibiotic,Syrup,641 mg,"Gilead Sciences, Inc.",Wound,Over-the-Counter
+0,Metomet,Antiseptic,Inhaler,489 mg,Novo Nordisk A/S,Pain,Over-the-Counter
+0,Dolovir,Antipyretic,Drops,49 mg,Sanofi S.A.,Diabetes,Prescription
+0,Acetocillin,Antifungal,Drops,441 mg,"Gilead Sciences, Inc.",Fever,Over-the-Counter
+0,Clarimet,Analgesic,Inhaler,513 mg,AstraZeneca plc,Pain,Prescription
+0,Clarinazole,Antidepressant,Drops,417 mg,CSL Limited,Pain,Over-the-Counter
+0,Amoxiphen,Antidepressant,Drops,582 mg,Biogen Inc.,Pain,Over-the-Counter
+0,Acetomet,Analgesic,Injection,901 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Acetophen,Antiseptic,Drops,980 mg,Teva Pharmaceutical Industries Ltd.,Virus,Over-the-Counter
+0,Dextrostatin,Analgesic,Ointment,294 mg,Biogen Inc.,Fungus,Over-the-Counter
+0,Cefmet,Antidiabetic,Syrup,58 mg,AbbVie Inc.,Infection,Over-the-Counter
+0,Dolophen,Antibiotic,Cream,717 mg,Pfizer Inc.,Infection,Prescription
+0,Claristatin,Analgesic,Drops,271 mg,Pfizer Inc.,Fever,Over-the-Counter
+0,Dextrostatin,Antipyretic,Tablet,51 mg,Teva Pharmaceutical Industries Ltd.,Pain,Over-the-Counter
+0,Dextrocillin,Antiviral,Injection,31 mg,CSL Limited,Wound,Over-the-Counter
+0,Cefmycin,Antipyretic,Tablet,561 mg,Bayer AG,Depression,Over-the-Counter
+0,Amoxicillin,Antipyretic,Inhaler,196 mg,"Merck & Co., Inc.",Wound,Over-the-Counter
+0,Ibuprocillin,Antidiabetic,Syrup,714 mg,Novartis AG,Diabetes,Prescription
+0,Acetomet,Antipyretic,Cream,115 mg,Amgen Inc.,Infection,Over-the-Counter
+0,Amoxistatin,Antiviral,Cream,47 mg,Johnson & Johnson,Virus,Prescription
+0,Acetonazole,Analgesic,Injection,876 mg,"Gilead Sciences, Inc.",Fungus,Over-the-Counter
+0,Cefstatin,Antiviral,Drops,348 mg,Bayer AG,Diabetes,Prescription
+0,Acetomycin,Antiseptic,Tablet,583 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Over-the-Counter
+0,Metostatin,Antiviral,Ointment,889 mg,Bayer AG,Infection,Over-the-Counter
+0,Acetonazole,Antidiabetic,Injection,32 mg,Pfizer Inc.,Virus,Over-the-Counter
+0,Dextrophen,Antidepressant,Cream,121 mg,Eli Lilly and Company,Fungus,Over-the-Counter
+0,Amoxiphen,Antipyretic,Injection,706 mg,Biogen Inc.,Virus,Over-the-Counter
+0,Metostatin,Analgesic,Syrup,902 mg,GlaxoSmithKline plc,Wound,Over-the-Counter
+0,Dolonazole,Analgesic,Ointment,310 mg,AbbVie Inc.,Fungus,Prescription
+0,Metostatin,Antiviral,Drops,492 mg,AbbVie Inc.,Fever,Prescription
+0,Clariprofen,Antidiabetic,Capsule,372 mg,Amgen Inc.,Diabetes,Prescription
+0,Clarimycin,Antiseptic,Ointment,560 mg,Amgen Inc.,Depression,Over-the-Counter
+0,Cefprofen,Antidepressant,Ointment,437 mg,Novartis AG,Infection,Prescription
+0,Amoxiprofen,Antibiotic,Tablet,783 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Prescription
+0,Dextrocillin,Antiviral,Capsule,869 mg,GlaxoSmithKline plc,Virus,Prescription
+0,Amoxicillin,Antiviral,Drops,872 mg,Sanofi S.A.,Pain,Prescription
+0,Amoximycin,Antiseptic,Ointment,762 mg,CSL Limited,Pain,Prescription
+0,Dolophen,Antipyretic,Tablet,870 mg,Pfizer Inc.,Wound,Over-the-Counter
+0,Metophen,Antidiabetic,Ointment,639 mg,Pfizer Inc.,Pain,Over-the-Counter
+0,Ibupromycin,Antibiotic,Syrup,550 mg,AbbVie Inc.,Virus,Over-the-Counter
+0,Clariprofen,Antiseptic,Drops,777 mg,Novo Nordisk A/S,Diabetes,Prescription
+0,Dextrostatin,Analgesic,Cream,981 mg,Novo Nordisk A/S,Infection,Prescription
+0,Metoprofen,Antifungal,Inhaler,496 mg,GlaxoSmithKline plc,Fever,Prescription
+0,Dextrovir,Antiseptic,Inhaler,204 mg,"Gilead Sciences, Inc.",Wound,Prescription
+0,Dolophen,Antibiotic,Inhaler,138 mg,GlaxoSmithKline plc,Fever,Prescription
+0,Ibupromet,Antiseptic,Ointment,898 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Acetonazole,Antiseptic,Drops,929 mg,Pfizer Inc.,Fungus,Prescription
+0,Clariphen,Analgesic,Inhaler,399 mg,Johnson & Johnson,Infection,Prescription
+0,Clarimycin,Antipyretic,Ointment,985 mg,Teva Pharmaceutical Industries Ltd.,Pain,Over-the-Counter
+0,Dextronazole,Antiviral,Capsule,353 mg,Novartis AG,Virus,Prescription
+0,Dextrovir,Antiseptic,Injection,494 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Over-the-Counter
+0,Dextromet,Antifungal,Ointment,677 mg,Bayer AG,Infection,Prescription
+0,Claristatin,Antidiabetic,Syrup,20 mg,Bristol-Myers Squibb Company,Depression,Over-the-Counter
+0,Dolophen,Antiviral,Tablet,243 mg,AstraZeneca plc,Wound,Prescription
+0,Dextrocillin,Analgesic,Injection,627 mg,GlaxoSmithKline plc,Fever,Over-the-Counter
+0,Acetocillin,Antifungal,Tablet,144 mg,Bayer AG,Virus,Over-the-Counter
+0,Acetomycin,Antiviral,Inhaler,557 mg,AstraZeneca plc,Fungus,Over-the-Counter
+0,Acetocillin,Antiviral,Cream,203 mg,GlaxoSmithKline plc,Fungus,Over-the-Counter
+0,Dolovir,Antiviral,Inhaler,5 mg,Teva Pharmaceutical Industries Ltd.,Pain,Prescription
+0,Metomet,Antipyretic,Injection,559 mg,AbbVie Inc.,Fever,Prescription
+0,Claristatin,Antibiotic,Syrup,849 mg,Biogen Inc.,Depression,Over-the-Counter
+0,Acetonazole,Analgesic,Injection,421 mg,Biogen Inc.,Fungus,Over-the-Counter
+0,Dextroprofen,Antiseptic,Injection,810 mg,AbbVie Inc.,Pain,Over-the-Counter
+0,Dextrovir,Antidiabetic,Inhaler,402 mg,GlaxoSmithKline plc,Wound,Prescription
+0,Cefphen,Analgesic,Syrup,25 mg,CSL Limited,Fungus,Prescription
+0,Claristatin,Antidepressant,Drops,773 mg,Amgen Inc.,Diabetes,Prescription
+0,Dextrocillin,Antifungal,Cream,32 mg,Eli Lilly and Company,Infection,Over-the-Counter
+0,Dextromycin,Antifungal,Ointment,522 mg,Amgen Inc.,Infection,Over-the-Counter
+0,Metophen,Antifungal,Syrup,56 mg,Johnson & Johnson,Virus,Over-the-Counter
+0,Metovir,Antifungal,Injection,107 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Cefnazole,Antiviral,Capsule,234 mg,Takeda Pharmaceutical Company Limited,Wound,Prescription
+0,Metostatin,Antibiotic,Tablet,120 mg,Biogen Inc.,Fever,Over-the-Counter
+0,Clariprofen,Antiviral,Inhaler,533 mg,Novartis AG,Fungus,Prescription
+0,Dolovir,Antiviral,Injection,521 mg,"Merck & Co., Inc.",Fever,Over-the-Counter
+0,Ibuproprofen,Antidepressant,Tablet,82 mg,Novartis AG,Wound,Prescription
+0,Dextrophen,Antiviral,Syrup,190 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Amoxiprofen,Antipyretic,Inhaler,672 mg,Novartis AG,Diabetes,Over-the-Counter
+0,Amoxivir,Antipyretic,Inhaler,566 mg,Takeda Pharmaceutical Company Limited,Diabetes,Prescription
+0,Amoxiphen,Antifungal,Capsule,777 mg,Amgen Inc.,Fever,Over-the-Counter
+0,Acetoprofen,Antidiabetic,Capsule,695 mg,Novartis AG,Infection,Over-the-Counter
+0,Metoprofen,Antibiotic,Tablet,845 mg,Johnson & Johnson,Infection,Prescription
+0,Metomycin,Antipyretic,Injection,846 mg,Biogen Inc.,Fever,Over-the-Counter
+0,Dextroprofen,Antibiotic,Syrup,24 mg,Roche Holding AG,Wound,Over-the-Counter
+0,Metovir,Analgesic,Inhaler,177 mg,CSL Limited,Infection,Prescription
+0,Cefnazole,Antiviral,Tablet,758 mg,Roche Holding AG,Wound,Over-the-Counter
+0,Ibupronazole,Antidepressant,Syrup,889 mg,AbbVie Inc.,Fungus,Prescription
+0,Cefprofen,Antiseptic,Inhaler,854 mg,Biogen Inc.,Infection,Over-the-Counter
+0,Cefvir,Antiseptic,Inhaler,381 mg,AstraZeneca plc,Pain,Over-the-Counter
+0,Cefmet,Antiviral,Inhaler,248 mg,Bristol-Myers Squibb Company,Fever,Over-the-Counter
+0,Amoxinazole,Analgesic,Inhaler,924 mg,Novo Nordisk A/S,Fever,Over-the-Counter
+0,Cefvir,Antipyretic,Inhaler,326 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Acetostatin,Antidepressant,Drops,77 mg,Bayer AG,Fungus,Prescription
+0,Cefcillin,Antipyretic,Cream,353 mg,GlaxoSmithKline plc,Depression,Over-the-Counter
+0,Metostatin,Antipyretic,Syrup,475 mg,GlaxoSmithKline plc,Virus,Over-the-Counter
+0,Dextrophen,Antipyretic,Cream,32 mg,AbbVie Inc.,Infection,Over-the-Counter
+0,Metostatin,Antipyretic,Capsule,116 mg,Bayer AG,Wound,Over-the-Counter
+0,Clariphen,Analgesic,Ointment,726 mg,Bristol-Myers Squibb Company,Fungus,Prescription
+0,Metonazole,Antiviral,Tablet,649 mg,Novartis AG,Virus,Over-the-Counter
+0,Dextroprofen,Antidepressant,Capsule,790 mg,Sanofi S.A.,Depression,Prescription
+0,Ibuprocillin,Antidiabetic,Ointment,499 mg,AstraZeneca plc,Fever,Over-the-Counter
+0,Ibuprovir,Antidepressant,Capsule,542 mg,Roche Holding AG,Virus,Prescription
+0,Ibuprocillin,Antidepressant,Tablet,95 mg,"Gilead Sciences, Inc.",Diabetes,Prescription
+0,Dextroprofen,Antidepressant,Ointment,637 mg,Takeda Pharmaceutical Company Limited,Fever,Over-the-Counter
+0,Dextronazole,Antipyretic,Injection,90 mg,Novartis AG,Depression,Prescription
+0,Ibupromet,Analgesic,Ointment,222 mg,AstraZeneca plc,Depression,Over-the-Counter
+0,Amoximycin,Analgesic,Injection,229 mg,Novo Nordisk A/S,Pain,Prescription
+0,Acetovir,Antidepressant,Drops,39 mg,Takeda Pharmaceutical Company Limited,Diabetes,Over-the-Counter
+0,Metovir,Antidiabetic,Cream,567 mg,CSL Limited,Fever,Prescription
+0,Cefmycin,Antidepressant,Inhaler,699 mg,Eli Lilly and Company,Fungus,Over-the-Counter
+0,Ibuprostatin,Antifungal,Capsule,558 mg,Novo Nordisk A/S,Depression,Over-the-Counter
+0,Amoxistatin,Antiviral,Inhaler,85 mg,Biogen Inc.,Diabetes,Over-the-Counter
+0,Acetophen,Antidiabetic,Cream,992 mg,Bayer AG,Infection,Over-the-Counter
+0,Acetoprofen,Antiviral,Drops,263 mg,Sanofi S.A.,Pain,Over-the-Counter
+0,Dextromycin,Antidiabetic,Injection,574 mg,GlaxoSmithKline plc,Diabetes,Over-the-Counter
+0,Cefmycin,Antipyretic,Inhaler,901 mg,Bristol-Myers Squibb Company,Depression,Over-the-Counter
+0,Clarimet,Antidepressant,Inhaler,983 mg,AbbVie Inc.,Pain,Over-the-Counter
+0,Cefcillin,Antifungal,Syrup,782 mg,Teva Pharmaceutical Industries Ltd.,Virus,Over-the-Counter
+0,Amoxistatin,Antiviral,Syrup,88 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Amoxinazole,Analgesic,Tablet,318 mg,AstraZeneca plc,Diabetes,Over-the-Counter
+0,Clariprofen,Antipyretic,Syrup,219 mg,AbbVie Inc.,Diabetes,Over-the-Counter
+0,Amoxiprofen,Antibiotic,Injection,265 mg,Eli Lilly and Company,Fever,Prescription
+0,Dolonazole,Antidepressant,Cream,295 mg,Bristol-Myers Squibb Company,Diabetes,Prescription
+0,Cefnazole,Antidiabetic,Ointment,464 mg,Johnson & Johnson,Fungus,Prescription
+0,Dextromet,Antidiabetic,Syrup,152 mg,Eli Lilly and Company,Fever,Prescription
+0,Dextrostatin,Antibiotic,Drops,936 mg,GlaxoSmithKline plc,Depression,Prescription
+0,Metocillin,Antifungal,Cream,209 mg,Teva Pharmaceutical Industries Ltd.,Depression,Prescription
+0,Claristatin,Antiviral,Cream,520 mg,AbbVie Inc.,Infection,Prescription
+0,Claristatin,Antiviral,Capsule,99 mg,Pfizer Inc.,Wound,Prescription
+0,Cefprofen,Analgesic,Syrup,133 mg,AbbVie Inc.,Wound,Prescription
+0,Ibuprocillin,Antidepressant,Injection,228 mg,AbbVie Inc.,Infection,Prescription
+0,Cefcillin,Antidepressant,Cream,910 mg,AstraZeneca plc,Fever,Over-the-Counter
+0,Dolonazole,Antidepressant,Syrup,364 mg,Novartis AG,Diabetes,Prescription
+0,Cefcillin,Antidepressant,Ointment,29 mg,Biogen Inc.,Infection,Prescription
+0,Clarivir,Antidiabetic,Syrup,948 mg,Eli Lilly and Company,Depression,Prescription
+0,Acetostatin,Antiseptic,Ointment,729 mg,Biogen Inc.,Diabetes,Over-the-Counter
+0,Dolovir,Analgesic,Drops,572 mg,Boehringer Ingelheim GmbH,Fever,Prescription
+0,Amoximet,Analgesic,Ointment,187 mg,Eli Lilly and Company,Fever,Prescription
+0,Ibuprocillin,Antiseptic,Cream,333 mg,Sanofi S.A.,Infection,Over-the-Counter
+0,Metovir,Antidiabetic,Drops,217 mg,"Gilead Sciences, Inc.",Fungus,Over-the-Counter
+0,Dextrocillin,Antibiotic,Capsule,182 mg,Bristol-Myers Squibb Company,Diabetes,Prescription
+0,Dextrostatin,Antipyretic,Injection,911 mg,Novo Nordisk A/S,Depression,Prescription
+0,Dextrostatin,Antipyretic,Inhaler,357 mg,Roche Holding AG,Fever,Prescription
+0,Claricillin,Antiseptic,Tablet,265 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Acetostatin,Antibiotic,Ointment,793 mg,"Merck & Co., Inc.",Virus,Over-the-Counter
+0,Cefmet,Antipyretic,Injection,561 mg,Johnson & Johnson,Fever,Over-the-Counter
+0,Cefcillin,Antibiotic,Syrup,709 mg,GlaxoSmithKline plc,Fungus,Prescription
+0,Acetocillin,Antifungal,Capsule,158 mg,Johnson & Johnson,Diabetes,Prescription
+0,Dolomet,Antiseptic,Inhaler,397 mg,Novo Nordisk A/S,Virus,Over-the-Counter
+0,Metomycin,Antidepressant,Drops,373 mg,Bristol-Myers Squibb Company,Fever,Over-the-Counter
+0,Acetomycin,Antidiabetic,Tablet,949 mg,Novo Nordisk A/S,Depression,Prescription
+0,Metoprofen,Analgesic,Inhaler,756 mg,Novo Nordisk A/S,Infection,Prescription
+0,Clarimet,Antiviral,Drops,588 mg,AbbVie Inc.,Diabetes,Over-the-Counter
+0,Amoximet,Analgesic,Injection,74 mg,Johnson & Johnson,Pain,Over-the-Counter
+0,Amoximycin,Antibiotic,Tablet,598 mg,Novo Nordisk A/S,Infection,Prescription
+0,Claricillin,Antibiotic,Capsule,921 mg,Roche Holding AG,Infection,Over-the-Counter
+0,Dolonazole,Antiseptic,Inhaler,887 mg,Boehringer Ingelheim GmbH,Virus,Prescription
+0,Clarimycin,Antidiabetic,Ointment,69 mg,Teva Pharmaceutical Industries Ltd.,Virus,Over-the-Counter
+0,Clariprofen,Antidiabetic,Tablet,364 mg,Roche Holding AG,Depression,Prescription
+0,Dolostatin,Antibiotic,Drops,260 mg,AstraZeneca plc,Depression,Over-the-Counter
+0,Amoxiphen,Antiseptic,Inhaler,839 mg,"Merck & Co., Inc.",Pain,Over-the-Counter
+0,Clariphen,Antiseptic,Syrup,451 mg,Teva Pharmaceutical Industries Ltd.,Virus,Over-the-Counter
+0,Cefvir,Antipyretic,Injection,86 mg,Sanofi S.A.,Infection,Prescription
+0,Amoximycin,Antidiabetic,Drops,570 mg,Novo Nordisk A/S,Diabetes,Over-the-Counter
+0,Cefphen,Antiviral,Injection,263 mg,CSL Limited,Virus,Over-the-Counter
+0,Acetoprofen,Antiviral,Tablet,934 mg,GlaxoSmithKline plc,Fever,Over-the-Counter
+0,Dolophen,Antifungal,Ointment,261 mg,AstraZeneca plc,Wound,Prescription
+0,Metomet,Antifungal,Injection,336 mg,AstraZeneca plc,Wound,Prescription
+0,Dextroprofen,Antibiotic,Syrup,603 mg,Pfizer Inc.,Pain,Prescription
+0,Amoxivir,Analgesic,Tablet,926 mg,GlaxoSmithKline plc,Fungus,Over-the-Counter
+0,Metophen,Antibiotic,Injection,518 mg,Johnson & Johnson,Wound,Over-the-Counter
+0,Ibuproprofen,Antibiotic,Syrup,460 mg,Pfizer Inc.,Pain,Prescription
+0,Dolostatin,Antipyretic,Capsule,386 mg,AbbVie Inc.,Fungus,Prescription
+0,Clarivir,Antidepressant,Drops,146 mg,Eli Lilly and Company,Fungus,Prescription
+0,Cefmycin,Antibiotic,Syrup,124 mg,Bayer AG,Infection,Over-the-Counter
+0,Metomet,Antipyretic,Tablet,175 mg,"Merck & Co., Inc.",Fungus,Prescription
+0,Amoxiphen,Antifungal,Drops,599 mg,GlaxoSmithKline plc,Wound,Prescription
+0,Metomycin,Antibiotic,Capsule,862 mg,Johnson & Johnson,Fungus,Prescription
+0,Dolonazole,Antidepressant,Inhaler,803 mg,Biogen Inc.,Wound,Over-the-Counter
+0,Clariphen,Antiviral,Tablet,318 mg,CSL Limited,Infection,Over-the-Counter
+0,Acetonazole,Antipyretic,Tablet,66 mg,Takeda Pharmaceutical Company Limited,Virus,Over-the-Counter
+0,Amoxinazole,Antipyretic,Syrup,103 mg,Pfizer Inc.,Fungus,Prescription
+0,Acetostatin,Antipyretic,Ointment,705 mg,Boehringer Ingelheim GmbH,Virus,Prescription
+0,Dextronazole,Antiviral,Injection,6 mg,Bayer AG,Pain,Over-the-Counter
+0,Clariphen,Antibiotic,Ointment,360 mg,Takeda Pharmaceutical Company Limited,Diabetes,Over-the-Counter
+0,Ibupromet,Antidepressant,Inhaler,734 mg,Novartis AG,Fungus,Prescription
+0,Cefvir,Analgesic,Ointment,587 mg,"Gilead Sciences, Inc.",Depression,Over-the-Counter
+0,Metomet,Antiseptic,Tablet,340 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Acetovir,Antiviral,Injection,641 mg,Novo Nordisk A/S,Fever,Prescription
+0,Metomet,Antipyretic,Injection,324 mg,CSL Limited,Pain,Prescription
+0,Doloprofen,Antiviral,Cream,561 mg,Pfizer Inc.,Fever,Prescription
+0,Ibupronazole,Antidepressant,Inhaler,821 mg,Biogen Inc.,Depression,Over-the-Counter
+0,Ibuprophen,Antifungal,Drops,164 mg,GlaxoSmithKline plc,Fungus,Prescription
+0,Claristatin,Antibiotic,Ointment,670 mg,Bristol-Myers Squibb Company,Virus,Over-the-Counter
+0,Ibupronazole,Antifungal,Ointment,371 mg,CSL Limited,Depression,Prescription
+0,Dextromycin,Analgesic,Syrup,79 mg,Pfizer Inc.,Diabetes,Over-the-Counter
+0,Metomet,Analgesic,Syrup,146 mg,Amgen Inc.,Fungus,Over-the-Counter
+0,Clariprofen,Antiseptic,Drops,517 mg,Boehringer Ingelheim GmbH,Virus,Over-the-Counter
+0,Ibuprovir,Antiseptic,Ointment,852 mg,Bayer AG,Infection,Prescription
+0,Metomet,Antidepressant,Syrup,3 mg,Novartis AG,Diabetes,Prescription
+0,Doloprofen,Antidiabetic,Ointment,8 mg,Novartis AG,Infection,Over-the-Counter
+0,Cefmet,Antiseptic,Syrup,176 mg,Pfizer Inc.,Fungus,Prescription
+0,Clarinazole,Antidepressant,Injection,449 mg,AstraZeneca plc,Depression,Over-the-Counter
+0,Clarinazole,Antiseptic,Drops,367 mg,Takeda Pharmaceutical Company Limited,Diabetes,Over-the-Counter
+0,Dolophen,Antifungal,Injection,175 mg,Novo Nordisk A/S,Wound,Over-the-Counter
+0,Acetomycin,Antidiabetic,Syrup,167 mg,Takeda Pharmaceutical Company Limited,Infection,Over-the-Counter
+0,Metocillin,Antiseptic,Syrup,977 mg,Amgen Inc.,Wound,Prescription
+0,Acetovir,Antidiabetic,Syrup,269 mg,GlaxoSmithKline plc,Pain,Prescription
+0,Dolocillin,Antiseptic,Injection,397 mg,Boehringer Ingelheim GmbH,Pain,Prescription
+0,Metocillin,Antipyretic,Drops,695 mg,"Merck & Co., Inc.",Wound,Prescription
+0,Ibupromycin,Antidiabetic,Inhaler,510 mg,Pfizer Inc.,Depression,Over-the-Counter
+0,Acetovir,Antifungal,Syrup,300 mg,Sanofi S.A.,Diabetes,Prescription
+0,Amoxiprofen,Antipyretic,Tablet,412 mg,Biogen Inc.,Fever,Prescription
+0,Cefstatin,Antifungal,Syrup,616 mg,Johnson & Johnson,Wound,Prescription
+0,Ibuprophen,Antibiotic,Inhaler,917 mg,Novartis AG,Diabetes,Prescription
+0,Clariprofen,Antifungal,Cream,463 mg,Sanofi S.A.,Pain,Prescription
+0,Dolophen,Antiviral,Inhaler,236 mg,"Merck & Co., Inc.",Wound,Over-the-Counter
+0,Dextrophen,Analgesic,Syrup,31 mg,Biogen Inc.,Fever,Over-the-Counter
+0,Acetonazole,Analgesic,Syrup,213 mg,Sanofi S.A.,Fever,Over-the-Counter
+0,Dextroprofen,Analgesic,Inhaler,437 mg,Bayer AG,Virus,Prescription
+0,Metophen,Antipyretic,Syrup,695 mg,AstraZeneca plc,Pain,Prescription
+0,Dolostatin,Antidiabetic,Capsule,482 mg,Boehringer Ingelheim GmbH,Virus,Over-the-Counter
+0,Clariprofen,Antidiabetic,Ointment,661 mg,AbbVie Inc.,Fungus,Over-the-Counter
+0,Claristatin,Antifungal,Ointment,664 mg,"Gilead Sciences, Inc.",Fever,Over-the-Counter
+0,Dolocillin,Antibiotic,Tablet,478 mg,Bayer AG,Virus,Prescription
+0,Dolomycin,Antidiabetic,Syrup,417 mg,"Merck & Co., Inc.",Diabetes,Over-the-Counter
+0,Acetomet,Antiviral,Tablet,799 mg,CSL Limited,Fever,Over-the-Counter
+0,Clarimet,Antiseptic,Capsule,370 mg,Biogen Inc.,Infection,Over-the-Counter
+0,Dextrocillin,Antidiabetic,Drops,317 mg,Johnson & Johnson,Wound,Prescription
+0,Metophen,Antidepressant,Syrup,815 mg,Takeda Pharmaceutical Company Limited,Depression,Over-the-Counter
+0,Dextronazole,Antidepressant,Tablet,559 mg,Bayer AG,Wound,Over-the-Counter
+0,Clariprofen,Antidepressant,Cream,618 mg,Biogen Inc.,Pain,Over-the-Counter
+0,Ibuprostatin,Antidiabetic,Ointment,635 mg,AstraZeneca plc,Virus,Prescription
+0,Dolomycin,Antiseptic,Ointment,983 mg,GlaxoSmithKline plc,Virus,Over-the-Counter
+0,Dextronazole,Antidiabetic,Tablet,205 mg,Eli Lilly and Company,Fever,Over-the-Counter
+0,Cefphen,Analgesic,Cream,901 mg,Biogen Inc.,Fever,Prescription
+0,Dextromet,Antiseptic,Syrup,779 mg,Eli Lilly and Company,Virus,Over-the-Counter
+0,Ibupronazole,Antipyretic,Cream,202 mg,Eli Lilly and Company,Fever,Over-the-Counter
+0,Clarimet,Antipyretic,Capsule,343 mg,AstraZeneca plc,Depression,Prescription
+0,Ibupronazole,Antibiotic,Inhaler,503 mg,Biogen Inc.,Fever,Over-the-Counter
+0,Dolophen,Antifungal,Syrup,744 mg,Novartis AG,Infection,Over-the-Counter
+0,Clarimycin,Antidepressant,Drops,73 mg,"Merck & Co., Inc.",Fungus,Prescription
+0,Dolocillin,Antipyretic,Drops,551 mg,Takeda Pharmaceutical Company Limited,Wound,Prescription
+0,Ibupromycin,Antiseptic,Inhaler,756 mg,Bristol-Myers Squibb Company,Depression,Prescription
+0,Claricillin,Antipyretic,Tablet,345 mg,"Merck & Co., Inc.",Fever,Prescription
+0,Cefmycin,Antipyretic,Drops,185 mg,Takeda Pharmaceutical Company Limited,Pain,Over-the-Counter
+0,Amoxinazole,Antidepressant,Syrup,684 mg,Pfizer Inc.,Fever,Over-the-Counter
+0,Metomycin,Antiseptic,Cream,559 mg,Takeda Pharmaceutical Company Limited,Fever,Over-the-Counter
+0,Amoxiprofen,Antifungal,Ointment,758 mg,Takeda Pharmaceutical Company Limited,Wound,Over-the-Counter
+0,Metocillin,Analgesic,Drops,577 mg,"Merck & Co., Inc.",Pain,Prescription
+0,Clarimet,Antibiotic,Tablet,617 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Acetocillin,Antibiotic,Injection,666 mg,Takeda Pharmaceutical Company Limited,Fever,Prescription
+0,Metoprofen,Analgesic,Cream,798 mg,Novartis AG,Fever,Over-the-Counter
+0,Metoprofen,Antibiotic,Injection,50 mg,Bristol-Myers Squibb Company,Infection,Prescription
+0,Ibupronazole,Analgesic,Drops,954 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Claristatin,Antiviral,Ointment,931 mg,CSL Limited,Fungus,Over-the-Counter
+0,Ibuproprofen,Antibiotic,Syrup,602 mg,Takeda Pharmaceutical Company Limited,Virus,Prescription
+0,Ibupromet,Antifungal,Cream,903 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Clarimet,Antidiabetic,Tablet,468 mg,Sanofi S.A.,Infection,Over-the-Counter
+0,Dextromet,Antidepressant,Drops,699 mg,Teva Pharmaceutical Industries Ltd.,Fever,Over-the-Counter
+0,Amoxicillin,Antibiotic,Injection,658 mg,Roche Holding AG,Depression,Over-the-Counter
+0,Metoprofen,Antiseptic,Capsule,324 mg,CSL Limited,Wound,Over-the-Counter
+0,Dextronazole,Antidepressant,Cream,497 mg,Johnson & Johnson,Virus,Prescription
+0,Clarivir,Antipyretic,Tablet,74 mg,Sanofi S.A.,Wound,Over-the-Counter
+0,Dolostatin,Antidiabetic,Drops,789 mg,Pfizer Inc.,Virus,Prescription
+0,Acetoprofen,Antidiabetic,Drops,222 mg,Takeda Pharmaceutical Company Limited,Diabetes,Over-the-Counter
+0,Dolophen,Antipyretic,Inhaler,658 mg,Amgen Inc.,Depression,Over-the-Counter
+0,Cefcillin,Antifungal,Inhaler,121 mg,Sanofi S.A.,Infection,Over-the-Counter
+0,Cefmycin,Antidiabetic,Tablet,661 mg,Bayer AG,Diabetes,Over-the-Counter
+0,Dextroprofen,Antidiabetic,Inhaler,533 mg,Teva Pharmaceutical Industries Ltd.,Wound,Over-the-Counter
+0,Dolomycin,Antiseptic,Tablet,20 mg,Bayer AG,Depression,Prescription
+0,Metonazole,Antidepressant,Inhaler,251 mg,Biogen Inc.,Depression,Prescription
+0,Cefnazole,Antidepressant,Syrup,59 mg,Amgen Inc.,Diabetes,Prescription
+0,Metophen,Antidiabetic,Injection,580 mg,Amgen Inc.,Depression,Prescription
+0,Dextrocillin,Antipyretic,Tablet,908 mg,Pfizer Inc.,Virus,Prescription
+0,Acetomycin,Antidiabetic,Capsule,70 mg,Novartis AG,Virus,Over-the-Counter
+0,Amoximet,Antipyretic,Inhaler,651 mg,GlaxoSmithKline plc,Infection,Prescription
+0,Amoxiprofen,Antidepressant,Ointment,220 mg,CSL Limited,Fever,Over-the-Counter
+0,Dextrophen,Antifungal,Syrup,97 mg,"Merck & Co., Inc.",Virus,Over-the-Counter
+0,Amoximycin,Analgesic,Tablet,151 mg,Johnson & Johnson,Virus,Prescription
+0,Amoxistatin,Antipyretic,Capsule,419 mg,GlaxoSmithKline plc,Fever,Over-the-Counter
+0,Amoximycin,Antibiotic,Injection,262 mg,Novartis AG,Fungus,Over-the-Counter
+0,Metophen,Antidiabetic,Cream,561 mg,Pfizer Inc.,Depression,Over-the-Counter
+0,Cefvir,Antidepressant,Cream,523 mg,AstraZeneca plc,Pain,Prescription
+0,Amoxinazole,Antidiabetic,Inhaler,308 mg,Novartis AG,Infection,Prescription
+0,Dextronazole,Antidiabetic,Syrup,242 mg,"Gilead Sciences, Inc.",Wound,Over-the-Counter
+0,Amoxicillin,Antiseptic,Drops,781 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Dolostatin,Antifungal,Inhaler,22 mg,AbbVie Inc.,Wound,Over-the-Counter
+0,Ibupromet,Antiseptic,Tablet,839 mg,Pfizer Inc.,Fungus,Prescription
+0,Acetonazole,Antidepressant,Injection,522 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Dolonazole,Antiseptic,Tablet,604 mg,"Gilead Sciences, Inc.",Fever,Over-the-Counter
+0,Ibuproprofen,Antibiotic,Injection,547 mg,Roche Holding AG,Pain,Prescription
+0,Acetostatin,Analgesic,Tablet,925 mg,"Gilead Sciences, Inc.",Virus,Over-the-Counter
+0,Claricillin,Antiviral,Cream,555 mg,Amgen Inc.,Wound,Over-the-Counter
+0,Acetonazole,Antidepressant,Cream,338 mg,Bristol-Myers Squibb Company,Infection,Prescription
+0,Clarinazole,Antidiabetic,Tablet,375 mg,Bristol-Myers Squibb Company,Virus,Over-the-Counter
+0,Ibuprovir,Antibiotic,Capsule,637 mg,"Gilead Sciences, Inc.",Diabetes,Prescription
+0,Dextrophen,Antibiotic,Capsule,837 mg,Biogen Inc.,Fungus,Over-the-Counter
+0,Ibuproprofen,Antibiotic,Cream,615 mg,Eli Lilly and Company,Pain,Over-the-Counter
+0,Amoximet,Antidiabetic,Ointment,581 mg,GlaxoSmithKline plc,Diabetes,Over-the-Counter
+0,Dextroprofen,Antidiabetic,Cream,619 mg,Johnson & Johnson,Wound,Prescription
+0,Amoxiprofen,Antidepressant,Drops,109 mg,Eli Lilly and Company,Wound,Over-the-Counter
+0,Metovir,Antifungal,Syrup,457 mg,Sanofi S.A.,Virus,Prescription
+0,Ibupronazole,Antidepressant,Tablet,645 mg,Amgen Inc.,Wound,Prescription
+0,Metophen,Antifungal,Cream,945 mg,Pfizer Inc.,Infection,Prescription
+0,Ibupromet,Antiviral,Drops,23 mg,Bayer AG,Infection,Over-the-Counter
+0,Dolomycin,Analgesic,Capsule,898 mg,Pfizer Inc.,Infection,Over-the-Counter
+0,Amoxiprofen,Antipyretic,Inhaler,918 mg,CSL Limited,Diabetes,Over-the-Counter
+0,Dextrostatin,Antidepressant,Ointment,618 mg,GlaxoSmithKline plc,Infection,Prescription
+0,Dolocillin,Antidepressant,Injection,450 mg,Takeda Pharmaceutical Company Limited,Wound,Prescription
+0,Dextrocillin,Analgesic,Drops,539 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Clarimet,Antifungal,Drops,771 mg,Bayer AG,Diabetes,Prescription
+0,Cefmycin,Antiseptic,Injection,570 mg,Eli Lilly and Company,Virus,Prescription
+0,Cefmet,Analgesic,Cream,669 mg,Eli Lilly and Company,Virus,Over-the-Counter
+0,Metomet,Antiseptic,Tablet,573 mg,Johnson & Johnson,Fever,Prescription
+0,Cefnazole,Antidepressant,Drops,366 mg,AstraZeneca plc,Pain,Over-the-Counter
+0,Metocillin,Antidiabetic,Capsule,914 mg,GlaxoSmithKline plc,Diabetes,Over-the-Counter
+0,Dextromycin,Antifungal,Tablet,230 mg,Bristol-Myers Squibb Company,Depression,Prescription
+0,Ibuprocillin,Antipyretic,Tablet,904 mg,CSL Limited,Infection,Over-the-Counter
+0,Amoxicillin,Antiviral,Ointment,595 mg,Biogen Inc.,Virus,Prescription
+0,Dextromet,Antibiotic,Capsule,426 mg,"Merck & Co., Inc.",Fungus,Prescription
+0,Dolomycin,Antibiotic,Drops,335 mg,"Merck & Co., Inc.",Diabetes,Prescription
+0,Clarinazole,Antibiotic,Tablet,951 mg,Novartis AG,Diabetes,Prescription
+0,Claristatin,Analgesic,Syrup,713 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Clarinazole,Antiviral,Syrup,853 mg,Novo Nordisk A/S,Fever,Over-the-Counter
+0,Cefcillin,Antipyretic,Cream,667 mg,Amgen Inc.,Virus,Prescription
+0,Ibupromet,Antipyretic,Syrup,988 mg,Biogen Inc.,Virus,Prescription
+0,Dolomycin,Antibiotic,Capsule,435 mg,GlaxoSmithKline plc,Depression,Over-the-Counter
+0,Clariphen,Antidepressant,Ointment,545 mg,Sanofi S.A.,Fever,Prescription
+0,Dextrophen,Antipyretic,Tablet,319 mg,Boehringer Ingelheim GmbH,Fever,Over-the-Counter
+0,Ibuprophen,Analgesic,Inhaler,343 mg,AbbVie Inc.,Fever,Prescription
+0,Dextroprofen,Analgesic,Tablet,32 mg,CSL Limited,Virus,Prescription
+0,Dextromet,Antiviral,Injection,615 mg,Johnson & Johnson,Wound,Over-the-Counter
+0,Acetomycin,Antidepressant,Inhaler,226 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Over-the-Counter
+0,Ibupromet,Antidepressant,Syrup,99 mg,Johnson & Johnson,Depression,Prescription
+0,Amoxistatin,Antibiotic,Inhaler,398 mg,Eli Lilly and Company,Infection,Over-the-Counter
+0,Clarivir,Antifungal,Tablet,431 mg,Teva Pharmaceutical Industries Ltd.,Infection,Prescription
+0,Metovir,Antifungal,Inhaler,828 mg,Biogen Inc.,Fungus,Prescription
+0,Ibuproprofen,Antipyretic,Injection,139 mg,Roche Holding AG,Diabetes,Over-the-Counter
+0,Ibuproprofen,Antiseptic,Drops,553 mg,Johnson & Johnson,Virus,Prescription
+0,Amoxinazole,Antiseptic,Ointment,226 mg,"Merck & Co., Inc.",Virus,Prescription
+0,Acetocillin,Antiseptic,Cream,937 mg,Boehringer Ingelheim GmbH,Virus,Prescription
+0,Dolostatin,Antiviral,Capsule,327 mg,Bristol-Myers Squibb Company,Fungus,Over-the-Counter
+0,Dextromet,Antipyretic,Cream,12 mg,Pfizer Inc.,Pain,Over-the-Counter
+0,Ibupronazole,Antiseptic,Ointment,364 mg,Sanofi S.A.,Pain,Over-the-Counter
+0,Cefcillin,Antibiotic,Tablet,388 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Cefmet,Antiviral,Ointment,785 mg,Teva Pharmaceutical Industries Ltd.,Depression,Over-the-Counter
+0,Metostatin,Analgesic,Inhaler,576 mg,Johnson & Johnson,Fever,Over-the-Counter
+0,Cefnazole,Antiseptic,Drops,181 mg,Bristol-Myers Squibb Company,Pain,Prescription
+0,Acetonazole,Antifungal,Injection,893 mg,AstraZeneca plc,Fungus,Prescription
+0,Metoprofen,Antiseptic,Capsule,475 mg,Sanofi S.A.,Fever,Over-the-Counter
+0,Dextrovir,Antifungal,Drops,836 mg,Sanofi S.A.,Pain,Over-the-Counter
+0,Cefvir,Analgesic,Inhaler,9 mg,Novartis AG,Pain,Over-the-Counter
+0,Acetovir,Antifungal,Drops,454 mg,Roche Holding AG,Pain,Prescription
+0,Ibuprovir,Antifungal,Tablet,768 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Dolonazole,Antipyretic,Drops,208 mg,Bayer AG,Virus,Prescription
+0,Acetocillin,Analgesic,Injection,487 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Clarimycin,Antidiabetic,Capsule,527 mg,"Merck & Co., Inc.",Depression,Over-the-Counter
+0,Dolostatin,Antipyretic,Syrup,341 mg,"Gilead Sciences, Inc.",Fever,Over-the-Counter
+0,Dextrovir,Antibiotic,Tablet,856 mg,GlaxoSmithKline plc,Fungus,Over-the-Counter
+0,Ibupromet,Antidepressant,Capsule,533 mg,"Merck & Co., Inc.",Fever,Over-the-Counter
+0,Dolonazole,Antiseptic,Capsule,785 mg,AbbVie Inc.,Pain,Prescription
+0,Amoxistatin,Antipyretic,Injection,370 mg,"Merck & Co., Inc.",Virus,Prescription
+0,Amoxistatin,Antidiabetic,Cream,80 mg,Biogen Inc.,Pain,Over-the-Counter
+0,Amoxivir,Antidepressant,Tablet,751 mg,Boehringer Ingelheim GmbH,Fungus,Over-the-Counter
+0,Dextromet,Antifungal,Tablet,32 mg,Takeda Pharmaceutical Company Limited,Virus,Over-the-Counter
+0,Dolophen,Antidiabetic,Drops,725 mg,Pfizer Inc.,Depression,Prescription
+0,Ibupronazole,Antiseptic,Drops,667 mg,Teva Pharmaceutical Industries Ltd.,Fever,Prescription
+0,Dolomet,Antiseptic,Capsule,753 mg,GlaxoSmithKline plc,Virus,Over-the-Counter
+0,Dextrophen,Antibiotic,Inhaler,793 mg,Sanofi S.A.,Depression,Prescription
+0,Metonazole,Antipyretic,Drops,116 mg,Roche Holding AG,Virus,Prescription
+0,Dextromycin,Antidiabetic,Ointment,737 mg,Sanofi S.A.,Wound,Over-the-Counter
+0,Acetocillin,Antipyretic,Drops,202 mg,Novo Nordisk A/S,Depression,Over-the-Counter
+0,Cefstatin,Antifungal,Capsule,943 mg,Sanofi S.A.,Fever,Over-the-Counter
+0,Acetophen,Antiseptic,Drops,784 mg,AbbVie Inc.,Fungus,Over-the-Counter
+0,Cefvir,Antipyretic,Cream,662 mg,Novartis AG,Fungus,Prescription
+0,Dextrovir,Antibiotic,Tablet,720 mg,Eli Lilly and Company,Wound,Prescription
+0,Clarivir,Antidiabetic,Injection,237 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Metovir,Antibiotic,Syrup,581 mg,Johnson & Johnson,Diabetes,Over-the-Counter
+0,Dextrovir,Antiseptic,Ointment,275 mg,Novartis AG,Fungus,Over-the-Counter
+0,Amoxistatin,Analgesic,Cream,231 mg,Bayer AG,Virus,Over-the-Counter
+0,Amoxinazole,Analgesic,Inhaler,496 mg,Roche Holding AG,Fungus,Over-the-Counter
+0,Amoxinazole,Analgesic,Ointment,556 mg,AbbVie Inc.,Virus,Over-the-Counter
+0,Dolomet,Antipyretic,Ointment,935 mg,Pfizer Inc.,Pain,Prescription
+0,Metovir,Antidepressant,Drops,466 mg,AstraZeneca plc,Infection,Over-the-Counter
+0,Amoxicillin,Antidiabetic,Cream,981 mg,Novartis AG,Fungus,Over-the-Counter
+0,Cefphen,Analgesic,Inhaler,612 mg,Bristol-Myers Squibb Company,Virus,Prescription
+0,Ibupronazole,Analgesic,Inhaler,106 mg,Amgen Inc.,Virus,Prescription
+0,Clarivir,Antidepressant,Tablet,152 mg,CSL Limited,Wound,Over-the-Counter
+0,Amoxistatin,Antidiabetic,Ointment,47 mg,Takeda Pharmaceutical Company Limited,Depression,Over-the-Counter
+0,Dolovir,Antiviral,Syrup,65 mg,Boehringer Ingelheim GmbH,Fever,Prescription
+0,Dextrostatin,Antidiabetic,Ointment,245 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Dolomycin,Analgesic,Injection,193 mg,Takeda Pharmaceutical Company Limited,Fungus,Over-the-Counter
+0,Acetostatin,Antidepressant,Syrup,889 mg,Sanofi S.A.,Pain,Prescription
+0,Cefcillin,Analgesic,Ointment,313 mg,Pfizer Inc.,Diabetes,Over-the-Counter
+0,Amoxiprofen,Antidiabetic,Ointment,892 mg,"Gilead Sciences, Inc.",Fever,Over-the-Counter
+0,Metocillin,Antiseptic,Capsule,709 mg,Eli Lilly and Company,Diabetes,Over-the-Counter
+0,Amoximet,Antipyretic,Injection,813 mg,Novartis AG,Diabetes,Prescription
+0,Dextronazole,Antibiotic,Inhaler,398 mg,Takeda Pharmaceutical Company Limited,Fever,Over-the-Counter
+0,Acetomet,Antifungal,Tablet,314 mg,Roche Holding AG,Fever,Prescription
+0,Metomycin,Antidepressant,Injection,978 mg,Novartis AG,Virus,Prescription
+0,Cefphen,Antiseptic,Ointment,650 mg,CSL Limited,Fungus,Over-the-Counter
+0,Amoxiphen,Antipyretic,Capsule,270 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Metostatin,Antiseptic,Tablet,281 mg,AbbVie Inc.,Diabetes,Prescription
+0,Clarinazole,Analgesic,Cream,677 mg,Bayer AG,Fungus,Prescription
+0,Dextrocillin,Antiseptic,Syrup,562 mg,Takeda Pharmaceutical Company Limited,Fever,Prescription
+0,Cefmycin,Antidiabetic,Syrup,534 mg,CSL Limited,Depression,Over-the-Counter
+0,Amoxiphen,Antipyretic,Cream,346 mg,Boehringer Ingelheim GmbH,Virus,Over-the-Counter
+0,Amoxivir,Antibiotic,Injection,106 mg,CSL Limited,Virus,Over-the-Counter
+0,Acetostatin,Analgesic,Cream,17 mg,Boehringer Ingelheim GmbH,Fungus,Over-the-Counter
+0,Dextromet,Analgesic,Capsule,869 mg,Eli Lilly and Company,Depression,Over-the-Counter
+0,Claristatin,Antifungal,Ointment,886 mg,Sanofi S.A.,Depression,Prescription
+0,Ibupronazole,Antiseptic,Injection,390 mg,GlaxoSmithKline plc,Depression,Prescription
+0,Dextromycin,Analgesic,Syrup,339 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Cefmet,Analgesic,Capsule,538 mg,AbbVie Inc.,Depression,Over-the-Counter
+0,Ibuprostatin,Antidiabetic,Capsule,64 mg,"Merck & Co., Inc.",Depression,Over-the-Counter
+0,Dolovir,Antifungal,Cream,917 mg,Bayer AG,Diabetes,Prescription
+0,Amoxivir,Antiviral,Capsule,422 mg,"Gilead Sciences, Inc.",Wound,Over-the-Counter
+0,Acetovir,Antifungal,Tablet,188 mg,AstraZeneca plc,Wound,Prescription
+0,Cefphen,Analgesic,Tablet,682 mg,Bristol-Myers Squibb Company,Fungus,Prescription
+0,Cefmet,Antipyretic,Injection,900 mg,"Gilead Sciences, Inc.",Infection,Over-the-Counter
+0,Metonazole,Antifungal,Ointment,522 mg,Bristol-Myers Squibb Company,Depression,Prescription
+0,Amoxicillin,Analgesic,Cream,881 mg,Roche Holding AG,Pain,Over-the-Counter
+0,Dextroprofen,Antifungal,Syrup,410 mg,CSL Limited,Fever,Prescription
+0,Cefprofen,Analgesic,Inhaler,363 mg,Bayer AG,Fungus,Over-the-Counter
+0,Doloprofen,Antiviral,Syrup,80 mg,Amgen Inc.,Virus,Over-the-Counter
+0,Claricillin,Antifungal,Injection,861 mg,Roche Holding AG,Infection,Over-the-Counter
+0,Cefnazole,Antidiabetic,Ointment,406 mg,AbbVie Inc.,Fever,Prescription
+0,Amoxiphen,Antiseptic,Syrup,114 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Metocillin,Antiseptic,Tablet,982 mg,Biogen Inc.,Fungus,Prescription
+0,Doloprofen,Antipyretic,Cream,18 mg,Pfizer Inc.,Virus,Prescription
+0,Dolovir,Analgesic,Ointment,454 mg,Biogen Inc.,Wound,Over-the-Counter
+0,Ibuprophen,Antidepressant,Drops,205 mg,CSL Limited,Fungus,Over-the-Counter
+0,Clarimycin,Analgesic,Inhaler,853 mg,Pfizer Inc.,Infection,Over-the-Counter
+0,Dolonazole,Antidiabetic,Tablet,47 mg,AbbVie Inc.,Infection,Over-the-Counter
+0,Dolomycin,Antifungal,Capsule,68 mg,Bristol-Myers Squibb Company,Infection,Prescription
+0,Acetoprofen,Antipyretic,Cream,367 mg,Biogen Inc.,Depression,Over-the-Counter
+0,Dextrocillin,Antiviral,Tablet,153 mg,CSL Limited,Virus,Over-the-Counter
+0,Metocillin,Antiseptic,Capsule,758 mg,Johnson & Johnson,Depression,Prescription
+0,Dolocillin,Antidiabetic,Tablet,33 mg,AstraZeneca plc,Virus,Prescription
+0,Cefvir,Antiviral,Capsule,483 mg,Takeda Pharmaceutical Company Limited,Virus,Over-the-Counter
+0,Metostatin,Analgesic,Cream,908 mg,CSL Limited,Fever,Prescription
+0,Cefmycin,Antibiotic,Injection,774 mg,Sanofi S.A.,Virus,Prescription
+0,Metonazole,Antiseptic,Drops,25 mg,Pfizer Inc.,Pain,Prescription
+0,Acetomycin,Antiseptic,Tablet,833 mg,Pfizer Inc.,Pain,Over-the-Counter
+0,Acetostatin,Antipyretic,Inhaler,683 mg,Novartis AG,Depression,Over-the-Counter
+0,Amoxiprofen,Antiviral,Injection,516 mg,AbbVie Inc.,Wound,Over-the-Counter
+0,Ibuprocillin,Antidepressant,Syrup,305 mg,Boehringer Ingelheim GmbH,Wound,Over-the-Counter
+0,Cefprofen,Antifungal,Syrup,720 mg,GlaxoSmithKline plc,Diabetes,Prescription
+0,Dextroprofen,Antidepressant,Drops,119 mg,Novo Nordisk A/S,Diabetes,Over-the-Counter
+0,Metostatin,Antiseptic,Cream,638 mg,Sanofi S.A.,Fungus,Over-the-Counter
+0,Ibupromet,Antidiabetic,Syrup,447 mg,Novo Nordisk A/S,Pain,Prescription
+0,Dolovir,Analgesic,Ointment,266 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Dolomet,Antidepressant,Syrup,42 mg,Biogen Inc.,Wound,Over-the-Counter
+0,Doloprofen,Antipyretic,Drops,223 mg,Roche Holding AG,Fungus,Over-the-Counter
+0,Amoxistatin,Antibiotic,Drops,547 mg,"Gilead Sciences, Inc.",Wound,Over-the-Counter
+0,Acetostatin,Antiseptic,Capsule,631 mg,"Merck & Co., Inc.",Wound,Over-the-Counter
+0,Clarimycin,Antiseptic,Capsule,577 mg,Novartis AG,Virus,Over-the-Counter
+0,Cefcillin,Antibiotic,Tablet,747 mg,Novo Nordisk A/S,Infection,Prescription
+0,Ibuprocillin,Antibiotic,Injection,162 mg,Amgen Inc.,Depression,Prescription
+0,Clarinazole,Antidepressant,Drops,445 mg,Novartis AG,Virus,Over-the-Counter
+0,Acetomet,Antidiabetic,Tablet,624 mg,Bayer AG,Fungus,Over-the-Counter
+0,Dextrocillin,Antidepressant,Ointment,662 mg,AstraZeneca plc,Fungus,Over-the-Counter
+0,Cefphen,Antipyretic,Inhaler,8 mg,Bayer AG,Diabetes,Over-the-Counter
+0,Cefnazole,Antiseptic,Drops,442 mg,Takeda Pharmaceutical Company Limited,Depression,Over-the-Counter
+0,Ibuprovir,Antipyretic,Capsule,72 mg,Bristol-Myers Squibb Company,Fungus,Prescription
+0,Amoxistatin,Antidepressant,Capsule,516 mg,Bristol-Myers Squibb Company,Pain,Prescription
+0,Cefstatin,Antiseptic,Inhaler,829 mg,Boehringer Ingelheim GmbH,Infection,Over-the-Counter
+0,Doloprofen,Antiviral,Syrup,988 mg,Eli Lilly and Company,Diabetes,Over-the-Counter
+0,Acetovir,Antiseptic,Capsule,97 mg,Bristol-Myers Squibb Company,Pain,Prescription
+0,Acetophen,Antipyretic,Injection,72 mg,GlaxoSmithKline plc,Pain,Over-the-Counter
+0,Amoximycin,Antipyretic,Syrup,603 mg,Pfizer Inc.,Depression,Prescription
+0,Acetonazole,Antidiabetic,Inhaler,220 mg,Bristol-Myers Squibb Company,Infection,Over-the-Counter
+0,Clariprofen,Antiviral,Cream,9 mg,Bayer AG,Virus,Prescription
+0,Dolophen,Antiviral,Ointment,963 mg,"Merck & Co., Inc.",Pain,Prescription
+0,Dextroprofen,Antiviral,Syrup,163 mg,AstraZeneca plc,Depression,Prescription
+0,Dolomycin,Antiviral,Cream,741 mg,Johnson & Johnson,Fever,Over-the-Counter
+0,Amoximet,Antiviral,Ointment,43 mg,Amgen Inc.,Fungus,Over-the-Counter
+0,Clarinazole,Antidepressant,Cream,937 mg,CSL Limited,Virus,Over-the-Counter
+0,Clarimet,Antiseptic,Capsule,686 mg,Boehringer Ingelheim GmbH,Fungus,Prescription
+0,Amoxinazole,Antiviral,Tablet,6 mg,Roche Holding AG,Virus,Over-the-Counter
+0,Dextromycin,Antiviral,Drops,246 mg,AbbVie Inc.,Infection,Prescription
+0,Acetostatin,Antidepressant,Capsule,391 mg,Sanofi S.A.,Depression,Over-the-Counter
+0,Acetophen,Antiseptic,Ointment,198 mg,GlaxoSmithKline plc,Pain,Prescription
+0,Acetomet,Antipyretic,Syrup,38 mg,Amgen Inc.,Virus,Prescription
+0,Amoxiphen,Analgesic,Syrup,141 mg,GlaxoSmithKline plc,Depression,Over-the-Counter
+0,Dolostatin,Antidepressant,Tablet,867 mg,Biogen Inc.,Virus,Over-the-Counter
+0,Ibuprophen,Antiviral,Cream,882 mg,Roche Holding AG,Fever,Over-the-Counter
+0,Metomet,Antidepressant,Injection,351 mg,Boehringer Ingelheim GmbH,Fungus,Over-the-Counter
+0,Clariphen,Analgesic,Capsule,707 mg,Bristol-Myers Squibb Company,Fungus,Over-the-Counter
+0,Ibuprovir,Antibiotic,Syrup,943 mg,AbbVie Inc.,Diabetes,Over-the-Counter
+0,Acetoprofen,Antipyretic,Syrup,70 mg,AstraZeneca plc,Wound,Prescription
+0,Metomycin,Antifungal,Injection,686 mg,Takeda Pharmaceutical Company Limited,Wound,Prescription
+0,Dolophen,Antiviral,Ointment,601 mg,AbbVie Inc.,Wound,Over-the-Counter
+0,Cefmycin,Antiseptic,Drops,984 mg,Bristol-Myers Squibb Company,Fungus,Prescription
+0,Acetomet,Antipyretic,Capsule,339 mg,Biogen Inc.,Fungus,Prescription
+0,Amoximet,Analgesic,Ointment,644 mg,Boehringer Ingelheim GmbH,Depression,Over-the-Counter
+0,Amoxiprofen,Antiseptic,Drops,623 mg,AbbVie Inc.,Depression,Over-the-Counter
+0,Dolostatin,Analgesic,Cream,45 mg,Teva Pharmaceutical Industries Ltd.,Diabetes,Over-the-Counter
+0,Claristatin,Antidepressant,Drops,9 mg,Takeda Pharmaceutical Company Limited,Pain,Over-the-Counter
+0,Clariprofen,Antifungal,Ointment,49 mg,Teva Pharmaceutical Industries Ltd.,Infection,Prescription
+0,Metomycin,Antidepressant,Drops,499 mg,Novo Nordisk A/S,Wound,Prescription
+0,Metomet,Antiviral,Drops,220 mg,Pfizer Inc.,Virus,Over-the-Counter
+0,Amoximycin,Antidepressant,Syrup,422 mg,Roche Holding AG,Infection,Over-the-Counter
+0,Acetocillin,Antidepressant,Inhaler,261 mg,Novo Nordisk A/S,Virus,Prescription
+0,Dolovir,Antiseptic,Injection,808 mg,Roche Holding AG,Fungus,Over-the-Counter
+0,Dolomet,Analgesic,Drops,718 mg,Eli Lilly and Company,Fungus,Prescription
+0,Ibupromycin,Antifungal,Inhaler,713 mg,Amgen Inc.,Depression,Over-the-Counter
+0,Metovir,Analgesic,Inhaler,563 mg,Boehringer Ingelheim GmbH,Pain,Prescription
+0,Dextromet,Antiviral,Capsule,588 mg,CSL Limited,Wound,Prescription
+0,Amoxivir,Antidepressant,Drops,117 mg,Novo Nordisk A/S,Diabetes,Over-the-Counter
+0,Dolomycin,Antiseptic,Cream,169 mg,Novartis AG,Fever,Over-the-Counter
+0,Ibupromycin,Antiseptic,Injection,43 mg,Bristol-Myers Squibb Company,Pain,Prescription
+0,Metomycin,Antiviral,Inhaler,668 mg,Pfizer Inc.,Pain,Over-the-Counter
+0,Ibupromet,Antifungal,Tablet,695 mg,AbbVie Inc.,Infection,Prescription
+0,Claricillin,Antiviral,Tablet,160 mg,Pfizer Inc.,Fever,Over-the-Counter
+0,Acetocillin,Antipyretic,Syrup,55 mg,GlaxoSmithKline plc,Virus,Over-the-Counter
+0,Amoximet,Analgesic,Inhaler,177 mg,Boehringer Ingelheim GmbH,Infection,Prescription
+0,Acetomet,Analgesic,Ointment,298 mg,Novartis AG,Infection,Prescription
+0,Clarimet,Antiseptic,Tablet,531 mg,Teva Pharmaceutical Industries Ltd.,Virus,Prescription
+0,Ibuprostatin,Antibiotic,Drops,454 mg,Amgen Inc.,Depression,Prescription
+0,Cefcillin,Antipyretic,Tablet,798 mg,"Merck & Co., Inc.",Infection,Over-the-Counter
+0,Dolomet,Analgesic,Ointment,677 mg,Novartis AG,Wound,Over-the-Counter
+0,Ibuprocillin,Antifungal,Inhaler,888 mg,Sanofi S.A.,Fever,Over-the-Counter
+0,Cefphen,Antiviral,Drops,561 mg,Boehringer Ingelheim GmbH,Depression,Over-the-Counter
+0,Amoxivir,Antidiabetic,Ointment,816 mg,Pfizer Inc.,Diabetes,Over-the-Counter
+0,Metocillin,Antidiabetic,Tablet,385 mg,AbbVie Inc.,Infection,Over-the-Counter
+0,Clarimycin,Antipyretic,Cream,926 mg,Teva Pharmaceutical Industries Ltd.,Virus,Prescription
+0,Cefcillin,Antifungal,Cream,486 mg,Boehringer Ingelheim GmbH,Pain,Over-the-Counter
+0,Claricillin,Analgesic,Injection,614 mg,Amgen Inc.,Depression,Over-the-Counter
+0,Dextrovir,Antifungal,Tablet,295 mg,Novartis AG,Diabetes,Over-the-Counter
+0,Dolovir,Antifungal,Syrup,653 mg,Roche Holding AG,Diabetes,Over-the-Counter
+0,Dextromycin,Analgesic,Tablet,240 mg,Sanofi S.A.,Diabetes,Prescription
+0,Clarimet,Antidiabetic,Capsule,576 mg,Amgen Inc.,Infection,Prescription
+0,Ibuprovir,Antipyretic,Capsule,220 mg,Boehringer Ingelheim GmbH,Infection,Over-the-Counter
+0,Acetovir,Antifungal,Capsule,96 mg,Takeda Pharmaceutical Company Limited,Pain,Over-the-Counter
+0,Acetomycin,Antiseptic,Injection,364 mg,Novartis AG,Diabetes,Prescription
+0,Dolomet,Antibiotic,Syrup,7 mg,Novo Nordisk A/S,Depression,Prescription
+0,Ibuprostatin,Antidiabetic,Syrup,714 mg,AbbVie Inc.,Fever,Prescription
+0,Cefcillin,Antiseptic,Ointment,332 mg,"Gilead Sciences, Inc.",Fungus,Over-the-Counter
+0,Acetophen,Analgesic,Syrup,236 mg,Teva Pharmaceutical Industries Ltd.,Virus,Prescription
+0,Acetonazole,Antibiotic,Injection,572 mg,Takeda Pharmaceutical Company Limited,Diabetes,Over-the-Counter
+0,Claricillin,Antifungal,Capsule,181 mg,Amgen Inc.,Virus,Prescription
+0,Dextromycin,Antidiabetic,Inhaler,3 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Amoxinazole,Antifungal,Cream,807 mg,Takeda Pharmaceutical Company Limited,Wound,Prescription
+0,Cefprofen,Antibiotic,Cream,163 mg,Sanofi S.A.,Wound,Over-the-Counter
+0,Clarimet,Antipyretic,Tablet,315 mg,CSL Limited,Diabetes,Prescription
+0,Dextrovir,Antifungal,Ointment,982 mg,Takeda Pharmaceutical Company Limited,Fever,Prescription
+0,Cefmycin,Antiviral,Cream,202 mg,AbbVie Inc.,Fever,Over-the-Counter
+0,Dolovir,Antifungal,Inhaler,707 mg,AstraZeneca plc,Pain,Over-the-Counter
+0,Metocillin,Antipyretic,Ointment,160 mg,Bayer AG,Fungus,Prescription
+0,Ibuprostatin,Antifungal,Syrup,191 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Dextronazole,Antidepressant,Inhaler,620 mg,Pfizer Inc.,Virus,Prescription
+0,Cefvir,Antidepressant,Ointment,535 mg,AstraZeneca plc,Pain,Prescription
+0,Dextromycin,Antiseptic,Ointment,702 mg,Amgen Inc.,Diabetes,Over-the-Counter
+0,Cefvir,Antifungal,Inhaler,188 mg,Biogen Inc.,Fungus,Prescription
+0,Acetonazole,Antiviral,Injection,11 mg,GlaxoSmithKline plc,Fever,Over-the-Counter
+0,Metoprofen,Antibiotic,Syrup,539 mg,Teva Pharmaceutical Industries Ltd.,Pain,Prescription
+0,Claristatin,Antiviral,Drops,96 mg,AbbVie Inc.,Diabetes,Over-the-Counter
+0,Metoprofen,Antiseptic,Tablet,310 mg,Boehringer Ingelheim GmbH,Virus,Over-the-Counter
+0,Dextrocillin,Analgesic,Drops,66 mg,AstraZeneca plc,Virus,Over-the-Counter
+0,Metostatin,Antidepressant,Ointment,379 mg,Biogen Inc.,Fever,Prescription
+0,Metomet,Antibiotic,Capsule,55 mg,Bayer AG,Fever,Prescription
+0,Ibuprocillin,Analgesic,Inhaler,531 mg,"Gilead Sciences, Inc.",Pain,Prescription
+0,Metomet,Antiseptic,Tablet,910 mg,AbbVie Inc.,Fungus,Over-the-Counter
+0,Doloprofen,Antiseptic,Drops,260 mg,Amgen Inc.,Pain,Prescription
+0,Clarivir,Antiseptic,Injection,70 mg,Takeda Pharmaceutical Company Limited,Virus,Prescription
+0,Claristatin,Antiseptic,Cream,799 mg,Novartis AG,Virus,Over-the-Counter
+0,Acetonazole,Antidepressant,Syrup,522 mg,Bristol-Myers Squibb Company,Wound,Prescription
+0,Dolomycin,Analgesic,Tablet,462 mg,GlaxoSmithKline plc,Diabetes,Over-the-Counter
+0,Ibuprocillin,Antidepressant,Drops,98 mg,CSL Limited,Wound,Over-the-Counter
+0,Acetomet,Antibiotic,Cream,654 mg,"Gilead Sciences, Inc.",Pain,Prescription
+0,Amoxicillin,Antipyretic,Cream,514 mg,Pfizer Inc.,Pain,Prescription
+0,Cefmycin,Antibiotic,Tablet,614 mg,Johnson & Johnson,Pain,Prescription
+0,Clariphen,Antifungal,Syrup,943 mg,Teva Pharmaceutical Industries Ltd.,Fever,Over-the-Counter
+0,Amoxinazole,Antiviral,Inhaler,729 mg,Boehringer Ingelheim GmbH,Fever,Over-the-Counter
+0,Ibupromycin,Antidepressant,Injection,115 mg,"Merck & Co., Inc.",Diabetes,Over-the-Counter
+0,Ibuproprofen,Antiviral,Capsule,235 mg,Bristol-Myers Squibb Company,Infection,Prescription
+0,Acetostatin,Antidiabetic,Injection,902 mg,Roche Holding AG,Fever,Prescription
+0,Dolostatin,Analgesic,Inhaler,269 mg,Bayer AG,Diabetes,Over-the-Counter
+0,Acetonazole,Antipyretic,Inhaler,703 mg,Novartis AG,Fever,Prescription
+0,Amoxinazole,Antidepressant,Inhaler,841 mg,AbbVie Inc.,Depression,Prescription
+0,Dextrocillin,Antibiotic,Drops,112 mg,Pfizer Inc.,Depression,Prescription
+0,Amoxiprofen,Analgesic,Capsule,512 mg,Bristol-Myers Squibb Company,Wound,Over-the-Counter
+0,Metostatin,Antipyretic,Capsule,885 mg,"Merck & Co., Inc.",Pain,Prescription
+0,Clariprofen,Antidiabetic,Injection,886 mg,Teva Pharmaceutical Industries Ltd.,Fever,Over-the-Counter
+0,Dextrostatin,Antidepressant,Inhaler,292 mg,Novo Nordisk A/S,Diabetes,Prescription
+0,Dolostatin,Antidepressant,Capsule,723 mg,Johnson & Johnson,Diabetes,Prescription
+0,Dolocillin,Antipyretic,Injection,473 mg,Novartis AG,Depression,Over-the-Counter
+0,Acetomet,Antidiabetic,Ointment,830 mg,Eli Lilly and Company,Diabetes,Prescription
+0,Metomycin,Antidiabetic,Tablet,793 mg,Bristol-Myers Squibb Company,Wound,Over-the-Counter
+0,Claricillin,Antidepressant,Syrup,479 mg,GlaxoSmithKline plc,Depression,Over-the-Counter
+0,Amoxiphen,Antidepressant,Injection,368 mg,Amgen Inc.,Fungus,Prescription
+0,Dolonazole,Antidepressant,Capsule,556 mg,Eli Lilly and Company,Fever,Over-the-Counter
+0,Dolocillin,Antifungal,Tablet,64 mg,"Merck & Co., Inc.",Depression,Prescription
+0,Ibupronazole,Antipyretic,Cream,192 mg,Pfizer Inc.,Pain,Over-the-Counter
+0,Acetomycin,Antidiabetic,Tablet,200 mg,Bayer AG,Diabetes,Over-the-Counter
+0,Dolonazole,Antipyretic,Injection,254 mg,Pfizer Inc.,Virus,Prescription
+0,Ibuprovir,Analgesic,Injection,998 mg,Biogen Inc.,Wound,Prescription
+0,Dextromycin,Antibiotic,Inhaler,440 mg,AbbVie Inc.,Depression,Prescription
+0,Clariprofen,Antidiabetic,Injection,651 mg,Bayer AG,Wound,Over-the-Counter
